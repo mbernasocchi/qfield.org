@@ -1249,7 +1249,7 @@ div.explanation {
 
 .green-link:hover {
   color: var(--qfield-color);
-  font-weight: 500;
+  font-weight: 600;
   text-decoration: none;
 }
 
