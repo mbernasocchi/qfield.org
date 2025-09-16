@@ -226,7 +226,6 @@ footer.footer {
 
 /*main poinst*/
 #main-points p,
-#customers p,
 #testimonials p {
   text-align: justify;
   font-size: 13pt;
@@ -311,6 +310,12 @@ footer.footer {
   display: none;
   transition: opacity 2s ease;
   opacity: 0;
+}
+
+#customers .customer-card a{
+  font-style: italic;
+  color:#333;
+  font-weight: bolder;
 }
 
 @keyframes fadeIn {
