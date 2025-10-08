@@ -1,0 +1,1536 @@
+- id: "513"
+  author_name: kikislater
+  author_email: kikiesttoujoursla@gmail.com
+  author_url: https://riderducoin.com
+  published: 2015-01-08T14:27:57Z
+  parent_id: "0"
+  content: Nice work !
+  post_url: /2015/01/08/happy-new-year-to-the-power-of-two/
+  post_id: "1147"
+- id: "514"
+  author_name: Happy new year to the power of two! | Geo-How-To News
+  author_email: ""
+  author_url: https://geo-how-to.org/news/happy-new-year-to-the-power-of-two/
+  published: 2015-01-08T21:23:09Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2015/01/08/happy-new-year-to-the-power-of-two/ [&#8230;]'
+  post_url: /2015/01/08/happy-new-year-to-the-power-of-two/
+  post_id: "1147"
+- id: "515"
+  author_name: Hun Cola
+  author_email: hestenper@gmail.com
+  author_url: ""
+  published: 2015-01-09T10:34:21Z
+  parent_id: "0"
+  content: What great news. This looks verypromising. Looking forward the first version.
+  post_url: /2015/01/08/happy-new-year-to-the-power-of-two/
+  post_id: "1147"
+- id: "516"
+  author_name: Jukka Hellén (@jhellen)
+  author_email: jukka.hellen@gmail.com
+  author_url: ""
+  published: 2015-01-11T12:15:10Z
+  parent_id: "0"
+  content: |-
+    Tried out this Android version on my www.Jolla.com smartphone that runs SailfishOS with Android support and it seems to be working. Had to install the Qt libraries it asked for from Aptoide store instead of Play store.
+    Would be awesome to see this as a native SailfishOS https://sailfishos.org/ app especially now when the Jolla tablet arrives in May :P
+  post_url: /2015/01/08/happy-new-year-to-the-power-of-two/
+  post_id: "1147"
+- id: "517"
+  author_name: Luca Ugo
+  author_email: lucachess@gmail.com
+  author_url: https://plus.google.com/112163798278364608077
+  published: 2015-01-12T08:24:00Z
+  parent_id: "0"
+  content: Marvellous! Can you add the ability to detect current GPS position?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "518"
+  author_name: kaeptn
+  author_email: kaeptn.haddock@gmail.com
+  author_url: ""
+  published: 2015-01-12T11:01:41Z
+  parent_id: "0"
+  content: |-
+    As long as QGIS mobile is closely related to QGIS I think the name is appropriate -&gt; its helpful tu users to know about connections of projects. And you'll probably profit from qgis positive reputation.
+    If you have rewritten vast parts of the code, then maybe a new name would be better?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "519"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-01-12T11:03:26Z
+  parent_id: "517"
+  content: |-
+    This is very high on our priority list.
+    For navigation purpose and for digitizing purpose.
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "520"
+  author_name: Luca Ugo
+  author_email: lucachess@gmail.com
+  author_url: https://plus.google.com/112163798278364608077
+  published: 2015-01-12T11:36:30Z
+  parent_id: "0"
+  content: Does this app connect to a QGIS Server?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "521"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-01-12T11:56:19Z
+  parent_id: "520"
+  content: Yes. It supports the WMS standard and therfore can be connected to QGIS Server.
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "522"
+  author_name: Luca Ugo
+  author_email: lucachess@gmail.com
+  author_url: https://plus.google.com/112163798278364608077
+  published: 2015-01-12T13:20:30Z
+  parent_id: "521"
+  content: How can you pass the remote QGS project file to this app?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "523"
+  author_name: Lukaku
+  author_email: hestenper@gmail.com
+  author_url: ""
+  published: 2015-01-12T13:24:48Z
+  parent_id: "0"
+  content: Will it be possible to add/use Python-scripts (using ui-file)?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "524"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-01-12T13:34:40Z
+  parent_id: "523"
+  content: |-
+    This project builds on QML an alternative to widgets optimized for touch interfaces.
+    Python will be possible at some point. QML itself already allows quite a bit of scripting though so it is not the first order of business.
+    UI files are part of Qts widget system and therefore not supported. If there's demand we may however introduce similar possibilities using QML.
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "525"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-01-12T13:38:07Z
+  parent_id: "522"
+  content: QGIS Server does not support access via a remote .qgs project file. QGIS Server is configured with a .qgs project file and then exposes layers via services.
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "526"
+  author_name: QGIS Mobile 0.2 Demo | Geo-How-To News
+  author_email: ""
+  author_url: https://geo-how-to.org/news/qgis-mobile-0-2-demo/
+  published: 2015-01-12T14:23:45Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2015/01/11/qgis-mobile-0-2-demo/ [&#8230;]'
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "527"
+  author_name: warrieka
+  author_email: kaywarrie@gmail.com
+  author_url: https://gravatar.com/warrieka
+  published: 2015-01-12T16:24:46Z
+  parent_id: "524"
+  content: |-
+    Some of simple extension api like Python or QML-javascript would be useful to bring in your own user needs or business processes. But obviously you need to get the core functionality working first.
+    Good luck guys
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "528"
+  author_name: Alex
+  author_email: ambilyk@lakeheadu.ca
+  author_url: ""
+  published: 2015-01-26T20:49:25Z
+  parent_id: "0"
+  content: Fantastic!
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "529"
+  author_name: Lee Pinney
+  author_email: lee.pinney1972@googlemail.com
+  author_url: https://plus.google.com/113523929821722404894
+  published: 2015-01-30T09:40:36Z
+  parent_id: "0"
+  content: Hi, will QGIS Mobile support QGIS relations for 1:Many joins?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "530"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-01-30T09:52:54Z
+  parent_id: "529"
+  content: This is definitely in the pipeline and we have some ideas on how an implementation will look. If you are interested, please contact us by mail.
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "531"
+  author_name: Tyler Veinot
+  author_email: tylerkveinot@gmail.com
+  author_url: ""
+  published: 2015-04-30T16:18:13Z
+  parent_id: "0"
+  content: A few questions; What tablet specs would be optimal to purchase to test the demo, leave feedback, and if we really like it, maybe donate something?
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "532"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-04-30T16:46:42Z
+  parent_id: "531"
+  content: |-
+    We have assembled a list of devices which have been reported to work. Just pick any of these which meets your requirements.
+    https://www.opengis.ch/android-gis/qfield/supported-devices/
+  post_url: /2015/01/11/qgis-mobile-0-2-demo/
+  post_id: "1149"
+- id: "533"
+  author_name: A star is born, QGIS mobile is now QField | Geo-How-To News
+  author_email: ""
+  author_url: https://geo-how-to.org/news/a-star-is-born-qgis-mobile-is-now-qfield/
+  published: 2015-02-04T12:41:15Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2015/01/28/qgis-mobile-is-now-qfield/ [&#8230;]'
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "534"
+  author_name: 'AgroTIC &raquo; QField : Qgis arrive sur supports mobiles'
+  author_email: ""
+  author_url: https://www.agrotic.org/blog/qfield-qgis-arrive-sur-supports-mobiles/
+  published: 2015-02-06T16:17:38Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2015/01/28/qgis-mobile-is-now-qfield/ [&#8230;]'
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "535"
+  author_name: Adeyemo Ayodele
+  author_email: christad92@gmail.com
+  author_url: ""
+  published: 2015-02-11T09:22:46Z
+  parent_id: "0"
+  content: This is really fascinating.... Great job
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "536"
+  author_name: weekly 238 &#8211; 03.02.-09.02.2015 | weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník
+  author_email: ""
+  author_url: https://www.weeklyosm.eu/archives/2496
+  published: 2015-02-16T23:12:04Z
+  parent_id: "0"
+  content: '[&#8230;] new Android app QField is now QGis compatible. The software is open source and free to use. To support further development, you can [&#8230;]'
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "537"
+  author_name: amitabhbasu74
+  author_email: amitabh.basu@rmsi.com
+  author_url: https://amitabhbasu.wordpress.com
+  published: 2015-05-11T12:33:27Z
+  parent_id: "0"
+  content: Is QField envisaged as an off-the-shelf product or will it enable the developers to do custom development such as by creating plugins
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "538"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2015-05-27T12:54:16Z
+  parent_id: "537"
+  content: The idea we have in mind is as with QGIS. To have a modular approach that allows to customize the application for a given use-case but at the same time offering a standard app which will be suitable for a broad range of standard applications with some customization available in the project configuration. At the moment we focus on the latter as we are not yet able to provide a stable API and a plugin mechanism but we always have modularity in mind.
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "539"
+  author_name: LayWriter
+  author_email: rrandriano@gmail.com
+  author_url: https://madatoday.wordpress.com
+  published: 2015-06-02T15:36:40Z
+  parent_id: "0"
+  content: QField will be released for free. WHEN exactly?
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "540"
+  author_name: marco
+  author_email: marco@opengis.ch
+  author_url: ""
+  published: 2015-06-02T15:44:56Z
+  parent_id: "539"
+  content: |-
+    Hi, usually Uppercase is used for screaming, but I'll assume you were not and are just anxious about knowing when QField will be released for free. As it is explainded on the website, QField <strong>is already available for free</strong>. Just proceed as requested on <a href="https://www.opengis.ch/android-gis/qfield/installation/" rel="nofollow">the installation page</a>
+    Regards
+    Marco
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "541"
+  author_name: Terence Mothers
+  author_email: tsig@tvcabo.co.mz
+  author_url: ""
+  published: 2015-11-07T16:17:06Z
+  parent_id: "0"
+  content: Looking forward to learning how to integrate this into my current project, great job everyone at QGIS
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "542"
+  author_name: Jeff Froehlich
+  author_email: jeff.froehlich@gmx.de
+  author_url: ""
+  published: 2016-03-29T19:51:38Z
+  parent_id: "0"
+  content: HI. One question. Will there be a mac/iOS version in the future for ipads?
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "543"
+  author_name: marco
+  author_email: marco@opengis.ch
+  author_url: ""
+  published: 2016-03-30T07:26:02Z
+  parent_id: "542"
+  content: |-
+    Hi Jeff, we would like to do that and don't see any big technical problems. The issue is a legal one. App store and gpl software appear not to be able to coexist [1].
+    While we could use a double licensing for all the code we wrote for QField, we are using plenty of cool libraries (QGIS, GDAL, GEOS,...) that are licensed under the GPLv2.
+    Maybe we could download all this libraries at runtime bypassing the appstore constrains but I haven't investigated yet if a feasible approach.
+    Ciao Marco
+    [1] https://www.engadget.com/2011/01/09/the-gpl-the-app-store-and-you/
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "544"
+  author_name: Oisin Kelly
+  author_email: oisink@btinternet.com
+  author_url: ""
+  published: 2016-11-26T14:01:47Z
+  parent_id: "0"
+  content: Hi. No doubt I'm being really stupid, but I can't work out how to use it. QField is installed. I copy over a QGIS project (.qgs) and no matter where I put it on my phone I cannot see it when I try to open it from QField. I've looked at the documentation here (https://www.qfield.org/docs/user-guide/index.html) but I think the section on opening a project is yet to be written. Any help approeciated.
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "545"
+  author_name: Ladislas
+  author_email: tracykhibusu@yahoo.co.uk
+  author_url: https://gravatar.com/tracykhibusu
+  published: 2017-01-28T13:39:11Z
+  parent_id: "0"
+  content: Does it work offline?
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "546"
+  author_name: marco
+  author_email: marco@opengis.ch
+  author_url: ""
+  published: 2017-01-30T07:02:22Z
+  parent_id: "545"
+  content: yes.
+  post_url: /2015/01/28/qgis-mobile-is-now-qfield/
+  post_id: "1292"
+- id: "557"
+  author_name: QField (QGIS für Android) beta verfügbar - Baumsicht
+  author_email: ""
+  author_url: https://baumsicht.de/qfield-qgis-fuer-android-beta-verfuegbar/
+  published: 2015-06-15T15:23:24Z
+  parent_id: "0"
+  content: '[&#8230;] via OPENGIS.ch [&#8230;]'
+  post_url: /2015/06/15/qfield-in-the-wild/
+  post_id: "1700"
+- id: "558"
+  author_name: weekly 256 &#8211; 09.06.–15.06.2015 | weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník &#8211; edisi
+  author_email: ""
+  author_url: https://www.weeklyosm.eu/archives/4205
+  published: 2015-06-22T11:48:56Z
+  parent_id: "0"
+  content: '[&#8230;] (a QGIS-compatible GIS for Android) is now available as a beta version in the Google Play [&#8230;]'
+  post_url: /2015/06/15/qfield-in-the-wild/
+  post_id: "1700"
+- id: "586"
+  author_name: Daniele Samez
+  author_email: daniele.samez@gmail.com
+  author_url: ""
+  published: 2015-12-02T09:59:58Z
+  parent_id: "0"
+  content: Thanks Marco and all developers at Opengis.ch
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "587"
+  author_name: AgroTIC &raquo; Sortie de QField pour Android 5
+  author_email: ""
+  author_url: https://www.agrotic.org/blog/sortie-de-qfield-pour-android-5/
+  published: 2015-12-02T12:18:18Z
+  parent_id: "0"
+  content: '[&#8230;] bonne nouvelle c&rsquo;est que les développeurs de QField ont réussi à s&rsquo;affranchir de Ministro, ce qui rend QField utilisable pour tous les appareils Android à partir de la version [&#8230;]'
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "588"
+  author_name: QField for Android 5 | GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-for-android-5/
+  published: 2015-12-03T15:22:59Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2015/12/01/qfield-for-android-5/ [&#8230;]'
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "589"
+  author_name: Chris
+  author_email: chris_paul001@hotmail.com
+  author_url: ""
+  published: 2016-04-10T23:12:21Z
+  parent_id: "0"
+  content: Wonderful. I'd love to see a newer version with layers panel and editing/digitizing capabilities
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "590"
+  author_name: marco
+  author_email: marco@opengis.ch
+  author_url: ""
+  published: 2016-04-11T16:04:06Z
+  parent_id: "589"
+  content: digitizing of points is coming soon
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "591"
+  author_name: Christophe M.
+  author_email: christophe.maginot@gmail.com
+  author_url: ""
+  published: 2016-06-09T19:48:56Z
+  parent_id: "0"
+  content: |-
+    Bonjour, testé sur mon Nexus 5 avec Android 6.0.1, il fonctionne bien et toutes les fonctionnalités sont disponibles.
+    Hello, tester on a Nexus 5 with Android 6.0.1, qfield run Well and all fonction are available.
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "592"
+  author_name: arne1921KF
+  author_email: ae@uni-bonn.de
+  author_url: ""
+  published: 2017-04-10T17:39:34Z
+  parent_id: "0"
+  content: |-
+    Hi  there!
+    The link to the QField for QGIS Karma edition app  delivers a 404 page.
+    I'd really like to try QField, but sadly, I have had no luck so far on my devices. One runs Android 4.2.2 (and Qfield crashes instantly), the other Android 6.0 (and I can't load any projects). I really have to find the sweet spot, it seems.
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "593"
+  author_name: Carlos Ruiz
+  author_email: caruizten@gmail.com
+  author_url: ""
+  published: 2017-08-31T22:47:26Z
+  parent_id: "0"
+  content: qfiel está inestable para android 6
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "594"
+  author_name: Hasrull
+  author_email: huaweimediapad7900@gmail.com
+  author_url: ""
+  published: 2018-04-09T06:08:40Z
+  parent_id: "0"
+  content: |-
+    I am using Huawei MediaPad M3 Lite (Android 7.0). QField suits my requirement. However at time I am unable to close the panel on the right after I have viewed the attributes of the layers.
+    The other problem is that I cannot snap pictures and position it on the map.
+    How can I rectify this problem because I need these to function well?
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "730"
+  author_name: Los logros e hitos más notables del sector geoespacial en los últimos 20 años
+  author_email: ""
+  author_url: https://mappinggis.com/2013/07/los-logros-mas-notables-del-sector-geoespacial-en-los-ultimos-15-anos/
+  published: 2020-06-17T17:52:16Z
+  parent_id: "0"
+  content: '[&#8230;] Lanzamiento de QField. [&#8230;]'
+  post_url: /2015/12/01/qfield-for-android-5/
+  post_id: "1923"
+- id: "615"
+  author_name: Frank
+  author_email: frank@kapernikov.com
+  author_url: ""
+  published: 2018-01-10T10:58:11Z
+  parent_id: "0"
+  content: |-
+    Hello,
+    We do similar things (building QGis applications with logic in postgres views/triggers/functions/...) for different applications. We happily use the same approach, as it leads to a working solution very quickly, but which is unfortunately not completely without issues:
+    * when saving multiple layers (that could be multiple updateable views on data having constraints), data is not saved in a single database transaction, which could lead to inconsistent intermediate states.
+    * all business logic needs to be implemented on database level (i think that's a bit the case with all GIS solutions not only QGIS?), there is no application logic layer that sits between the DB and the QGis client. In some cases this is limiting for more complex scenarios.
+    Greetings,
+    Frank
+  post_url: /2018/01/08/postgresql-back-end-solution-for-quality-assurance-and-data-archive/
+  post_id: "3442"
+- id: "616"
+  author_name: David Signer
+  author_email: david@opengis.ch
+  author_url: ""
+  published: 2018-03-21T15:38:12Z
+  parent_id: "615"
+  content: |-
+    Hi Frank
+    Thanks for writing.
+    Do you know the function <strong>Automatically create transaction groups where possible</strong> of QGIS? It says:
+    <em>When this mode is turned on, all (postgres) layers from the same database are synchronised in their edit state, i.e. when one layer is put into edit state, all are, when one layer is committed or one layer is rolled back, so are the others. Also, instead of buffering edit changes locally, they are directly sent to a transaction in the database which gets committed when the user clicks save layer. Note that you can (de)activate this option only if no layer is being edited in the project.</em>
+    Probably it could improve the solution on saving data on multiple layers.
+    Source: https://docs.qgis.org/testing/en/docs/user_manual/introduction/qgis_configuration.html
+    Regarding business logic you are right. Anyway there would still be the possibility to have functions in PostgreSQL and you call them with QGIS user-defined actions. So you'll have the logic on database level, but not in the back-end part of the database.
+    Thanks for your inputs and cheers
+    David
+  post_url: /2018/01/08/postgresql-back-end-solution-for-quality-assurance-and-data-archive/
+  post_id: "3442"
+- id: "617"
+  author_name: Frank Dekrevel
+  author_email: frank@kapernikov.com
+  author_url: ""
+  published: 2018-03-21T17:38:30Z
+  parent_id: "616"
+  content: |-
+    Hello David,
+    I didn't know this functionality but it looks like it would essentially solve the first problem i have, so i will try it out, thanks for the suggestion!
+    Greetings,
+    Frank
+  post_url: /2018/01/08/postgresql-back-end-solution-for-quality-assurance-and-data-archive/
+  post_id: "3442"
+- id: "750"
+  author_name: Vassiliy Ushakov
+  author_email: sp1rit.nsk@gmail.com
+  author_url: ""
+  published: 2021-04-19T13:59:38Z
+  parent_id: "0"
+  content: I'm trying to implement the quarantine logic for my project. I've set up two schemas live and quarantine and configured all triggers needed to transfer data on insert and update from quarantine to live tables. Also I added check constraints to live table. In QGIS everything goes well. Now im trying to connect QField to project but I can't understand how to set up it right. All my data initially sits in live tables and quarantine table is empty. I've configured project for QField from live schema and succsessfully updated some rows in field. When I tried to sync back the data I realised that it didn't hit quarantine tables and go straight to live. Is there any configurations in sync plugin or qgs project to point to quarantine schema or should I change something in my setup?
+  post_url: /2018/01/08/postgresql-back-end-solution-for-quality-assurance-and-data-archive/
+  post_id: "3442"
+- id: "627"
+  author_name: Eckart
+  author_email: ik78ptyvdid@temp.mailbox.org
+  author_url: ""
+  published: 2018-05-28T13:44:12Z
+  parent_id: "0"
+  content: 'Nice feature. How to do that separate with every feature in one layer full of overlapping polygons? How to build such a filter: for every id make one layer?'
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "628"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2018-05-28T14:04:59Z
+  parent_id: "627"
+  content: |-
+    Hi Eckart,
+    This new algorithm focuses on creating a predefined number of layers (one per filter) and cannot produce a variable number of outputs depending on the number of features or other layer properties.
+    Depending on what problem exactly you are trying to solve, it might also be possible that what you are looking for is a custom rendering order or similar measures.
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "629"
+  author_name: Tony Walters
+  author_email: tony.walters@i-valley.ca
+  author_url: http:www.i-valley.ca
+  published: 2018-06-02T15:30:57Z
+  parent_id: "0"
+  content: |-
+    A use case for my work would be to input an externally acquired file-based shapefile or KMZ  structure, and then to perform a series of steps with output being a layer.
+    In my case, the steps might look like this:
+    Read input polygon shapefile from filesystem
+    Create temporary layer in a specific layer group
+    Apply dissolve algorithm on temp layer
+    Apply style parameters, CRS etc.
+    Save as persistent layer
+    Remove temporary layers
+    Finish
+    This would automate the process of external data acquisition and reduce errors.
+    Can it be done?
+    Regards,
+    Tony
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "630"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2018-06-02T18:13:48Z
+  parent_id: "629"
+  content: |-
+    This sounds like exactly the kind of work that the processing modeler can streamline.
+    Make a new model with a vector layer (polygon) input, connect it to a dissolve algorithm and subsequent other ones as desired, as the very last step apply the layer styling via yet another algorithm.
+    When you start this model, you will be asked for the input layer and for a final destination for the output layer.
+    There will be no temporary layers in a specific layer group, the intermediate process will be completely transparent to the user.
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "631"
+  author_name: Johanness J
+  author_email: j.johanness1992@gmail.com
+  author_url: ""
+  published: 2018-09-19T08:06:59Z
+  parent_id: "0"
+  content: |-
+    Thank you for the wonderful article, I would not have known that this feature has been incorporated otherwise. I have used the Processing Modeler in QGIS 2.18.15 in the past, and had to manually filter features using the Right Click &gt; Filter &gt; Expression &gt; Save As for sub-setting different features within a Shapefile.
+    I can see how this new Feature Filter speeds up the previously cumbersome method I used to perform this task. My question is; can we implement this function alongside other algorithms (e.g. Clip Raster by Mask Layer)? Where it becomes more like a Batch Process of a specified algorithm using the filtered features from 'Feature Filter'
+    Because, even with this new Feature Filter, I would still have to individually complete the model by linking each of the Non-final outputs from the Feature Filter as identical processes within the processing modeler. E.g. if I have 3 rasters, and 1 Shapefile, and that Shapefile had 10 polygons within it, I will be able to use the Feature Filter to filter out each of the 10 polygons, but if i want to connect those filtered outputs to other algorithms (which I want to execute across all 10 polygons), I would still need to do those individually to complete the model
+    Do correct me if I pose any misunderstanding, thank you! Hope to hear from you soon
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "632"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2018-09-19T10:27:10Z
+  parent_id: "631"
+  content: |-
+    This sounds like an interesting request, but I am not yet sure I can completely follow you.
+    As an example, what you want to do is:
+    <ul>
+    <li> 10 filter conditions (each one returning a set of polygons)
+    <li> clip a raster file for each of these 10 conditions
+    <li> as a result have 10 clipped rasters
+    </ul>
+    This would be a very interesting other building block for models: the possibility to loop over a set of feature sources (algorithm ouptuts) or features (the combined polygons of all features in a source) and run another algorithm with each of them as input.
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "652"
+  author_name: Tony Walters
+  author_email: tonywsea@gmail.com
+  author_url: ""
+  published: 2018-12-25T19:15:34Z
+  parent_id: "630"
+  content: Wonderful. Have begun this and should save many hours per project. These projects include running rural broadband wireless coverage models and through a rest api import and layer coverage polygons over digital surface models (e.g. Lidar) terrain and rural housing locations. I can then count dwellings that are covered and iteratively narrow down the locations for transmission towers.
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "707"
+  author_name: GJ
+  author_email: gj-comm@posteo.de
+  author_url: ""
+  published: 2019-11-08T11:40:45Z
+  parent_id: "0"
+  content: |-
+    Thanks for the description!
+    Is it possible to use an user input (text or number), analogous to the Input layer in your example, as a basis for the Filter Expression?
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "708"
+  author_name: mkuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2019-11-11T11:17:42Z
+  parent_id: "707"
+  content: |-
+    Hi GJ,
+    You can use pretty much everything as input. What's the use case you are tackling?
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "763"
+  author_name: El Moussaoui
+  author_email: youssra.el-moussaoui@transdev.com
+  author_url: ""
+  published: 2022-02-14T10:18:30Z
+  parent_id: "0"
+  content: |-
+    Hello,
+
+    Thank you for this article !
+    I have a question ! How to filter my data from a selected entity?
+    For example, for a hand-selected school, I want my layer 'students' to be filtered based on those studying at the selected school.
+
+    Thanks in advance,
+    Youssra
+  post_url: /2018/05/28/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/
+  post_id: "3911"
+- id: "653"
+  author_name: QField 1.0 RC 1 | pigrecoinfinito
+  author_email: ""
+  author_url: https://pigrecoinfinito.wordpress.com/2019/01/08/qfield-1-0-rc-1/
+  published: 2019-01-08T15:13:37Z
+  parent_id: "0"
+  content: '[&#8230;] passati 4 anni (dic-2014) è stata una strada lunga e tortuosa, ma finalmente &#8211; OpenGIS.CH &#8211; è molto lieta di annunciare la disponibilità generale di QField 1.0 Release Candidate [&#8230;]'
+  post_url: /2019/01/08/qfield-1-0-rc1/
+  post_id: "4737"
+- id: "654"
+  author_name: Jonah Sullivan
+  author_email: jonah.sullivan@ga.gov.au
+  author_url: ""
+  published: 2019-01-08T23:33:32Z
+  parent_id: "0"
+  content: Congratulations on getting RC1 over the line.
+  post_url: /2019/01/08/qfield-1-0-rc1/
+  post_id: "4737"
+- id: "656"
+  author_name: guestagain
+  author_email: notmyrealaddress@gmail.com
+  author_url: ""
+  published: 2019-01-27T06:14:38Z
+  parent_id: "0"
+  content: |-
+    Thank you so much for all your work on this folks at OPENGIS!
+
+    Unfortunately, while the new version works great on one of my devices, it won't install properly and the program won't load on my Android S4(.4.2) device as it did previously.
+
+    Is this a known issue and is there any plans to fix this? If not, is there a way to use an older version on this deice?
+
+    Thanks!
+  post_url: /2019/01/08/qfield-1-0-rc1/
+  post_id: "4737"
+- id: "657"
+  author_name: Totò
+  author_email: pigrecoinfinito@gmail.com
+  author_url: https://pigrecoinfinito.wordpress.com
+  published: 2019-01-31T08:33:50Z
+  parent_id: "0"
+  content: |-
+    Excellent app.
+    thanks for all the work you do
+  post_url: /2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/
+  post_id: "4939"
+- id: "658"
+  author_name: '#QField 1.0 RC3 released &#8211; GeoNe.ws'
+  author_email: ""
+  author_url: https://geone.ws/qfield-1-0-rc3-released/
+  published: 2019-02-01T22:25:29Z
+  parent_id: "0"
+  content: '[&#8230;] https://opengis.ch/2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/ [&#8230;]'
+  post_url: /2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/
+  post_id: "4939"
+- id: "659"
+  author_name: Htun Naing Win
+  author_email: htunnaingwin01977@gmail.com
+  author_url: ""
+  published: 2019-02-06T02:57:21Z
+  parent_id: "0"
+  content: A Good Service,soe good.Thanks.
+  post_url: /2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/
+  post_id: "4939"
+- id: "660"
+  author_name: Tun Naing Win
+  author_email: htunnaingwin01977@gmail.com
+  author_url: ""
+  published: 2019-02-06T03:01:00Z
+  parent_id: "0"
+  content: I like this app,i am now using QGIS window software.Thank very much.
+  post_url: /2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/
+  post_id: "4939"
+- id: "661"
+  author_name: Salim
+  author_email: salimalbass@gmail.com
+  author_url: ""
+  published: 2019-02-06T15:06:35Z
+  parent_id: "0"
+  content: "This one of the most trusted app for gis field work \nWe are pleased to you and soon will be the best"
+  post_url: /2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/
+  post_id: "4939"
+- id: "662"
+  author_name: Juan Carlos Linares Justiniano
+  author_email: juanclj@cre.com.bo
+  author_url: ""
+  published: 2019-02-22T17:48:12Z
+  parent_id: "0"
+  content: Exelente Trabajo...
+  post_url: /2019/01/31/you-gave-us-feedback-we-give-you-qfield-1-0-rc2/
+  post_id: "4939"
+- id: "665"
+  author_name: Ferry
+  author_email: ferry_debruin@hotmail.com
+  author_url: ""
+  published: 2019-03-28T13:39:17Z
+  parent_id: "0"
+  content: |-
+    Hi,
+
+    Mijn name is Ferry en would to load the WMS-files in to Qfield.
+    But the WMS-files would not load in to Qfield with the update of Release 5.
+
+    Can you tell me how i can fix this problem?
+
+    kind regards
+
+    Ferry
+  post_url: /2019/03/14/qfield-rc5/
+  post_id: "5206"
+- id: "666"
+  author_name: Klaas Jacobs
+  author_email: club_78fero@hotmail.com
+  author_url: ""
+  published: 2019-03-28T16:02:19Z
+  parent_id: "0"
+  content: |-
+    Hi,
+
+    Since 1 March 2019 do not working good the WMS-Files from PDOK-Service ("https://geodata.nationaalgeoregister.nl/tiles/service/wmts?request=GetCapabilities&amp;service=WMTS") from Qfield.
+
+    When i load the Qfield i get "Download of capabilities failed: TLS initialization failed"
+
+    Get somebody help me?
+
+    Kind Regards
+
+    Klaas
+  post_url: /2019/03/14/qfield-rc5/
+  post_id: "5206"
+- id: "667"
+  author_name: Marco Bernasocchi
+  author_email: marco@opengis.ch
+  author_url: https://berna.io
+  published: 2019-03-28T17:43:30Z
+  parent_id: "665"
+  content: Hey, great news, it is fixed now in 1.0
+  post_url: /2019/03/14/qfield-rc5/
+  post_id: "5206"
+- id: "668"
+  author_name: Marco Bernasocchi
+  author_email: marco@opengis.ch
+  author_url: https://berna.io
+  published: 2019-03-28T17:43:46Z
+  parent_id: "666"
+  content: Hey, great news, it is fixed now in 1.0
+  post_url: /2019/03/14/qfield-rc5/
+  post_id: "5206"
+- id: "664"
+  author_name: Peter Signer
+  author_email: pesusi@gmx.ch
+  author_url: ""
+  published: 2019-03-25T10:51:53Z
+  parent_id: "0"
+  content: Great, smashing!
+  post_url: /2019/03/25/geobeer-26-in-bern-hosted-by-opengis-ch/
+  post_id: "5295"
+- id: "669"
+  author_name: QField 1.0 is here &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-1-0-is-here/
+  published: 2019-03-28T18:56:21Z
+  parent_id: "0"
+  content: '[&#8230;] https://opengis.ch/2019/03/28/qfield-1-0-is-here/ [&#8230;]'
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "670"
+  author_name: Nura Shehu
+  author_email: nurudeen.s@fud.edu.ng
+  author_url: ""
+  published: 2019-03-30T10:04:19Z
+  parent_id: "0"
+  content: That's great!
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "671"
+  author_name: João Paulo Soto Veiga
+  author_email: jpsveiga@hotmail.com
+  author_url: ""
+  published: 2019-03-31T10:05:53Z
+  parent_id: "0"
+  content: Great! Congrats to all the team.
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "672"
+  author_name: Daniele
+  author_email: daniele.samez@gmail.com
+  author_url: ""
+  published: 2019-04-04T11:13:18Z
+  parent_id: "0"
+  content: Well done guys :-)
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "673"
+  author_name: Tim Gould
+  author_email: trees.timgould@gmail.com
+  author_url: ""
+  published: 2019-04-04T11:20:03Z
+  parent_id: "0"
+  content: |-
+    Thank you very much to all involved with qField. I use it for tree surveys - it works very well in the field and the integration with/basis on QGIS is also extremely beneficial.
+
+    May I ask about 3 issues relevant to my use with a Samsung Galaxy Tab Active2 tablet:
+
+    1) Native camera - a client requires date/time stamped photos (which is possible with the Android third-party 'Open Camera' app) but qField crashes (for me) with anything other than the simplistic camera function bundled with qField. Is the native(/third-party) camera issue on the qField roadmap?
+
+    2) Datum grid shift - I'm in the UK &amp; with QGIS I use the OSTN15 grid shift when layers aren't already in OSGB such as KML files or OSM/Google background layers. If I make the qField project EPSG:27700 &amp; use the datum transformation then the tablet GPS does not show in qField. If I reproject the layers &amp; change the project to EPSG:3857 then all works fine. Is qField handling datum transformations likely to be on the qField roadmap?
+
+    3) Zoom in-out buttons on-screen - I chose my tablet because of ruggedness &amp; a decent stylus, for the days when gloves are a necessity for surveying (a lot unfortunately!). Panning the qField map with the stylus works fine, and a double-tap with the stylus zooms in, but there does not appear to be any way to zoom out without using fingers. Could this be on the qField roadmap or should I just get some North Face gloves?!?
+
+    Thanks again to all. Tim
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "674"
+  author_name: mkuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2019-04-04T13:19:29Z
+  parent_id: "673"
+  content: |-
+    Hi Tim, great to hear you are enjoying the app.
+
+    All of these items sound like great suggestions. The QField roadmap is designed by all the users who allow us to make things happen. We have just sent you more details for what is required to get these features into an upcoming version of QField.
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "675"
+  author_name: 'Geo Announcements: QField 1.0 Released,NASA&#039;s Spinoff Publication ~ GIS Lounge'
+  author_email: ""
+  author_url: https://www.gislounge.com/geo-announcements-qfield-1-0-releasednasas-spinoff-publication/
+  published: 2019-04-06T23:52:29Z
+  parent_id: "0"
+  content: '[&#8230;] Marco Bernasocchi recently announced the release of QField 1.0.  Available via the Playstore (qfield.org/get) or on GitHub, QField is a mobile GIS app.  The Q in the app name comes from the fact that is is powered by the underlying QGIS engine.  Details about the features offered within QField can be read about here: QField 1.0 is here [&#8230;]'
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "680"
+  author_name: Paul
+  author_email: paul_wittle@hotmail.com
+  author_url: ""
+  published: 2019-05-10T10:33:24Z
+  parent_id: "0"
+  content: |-
+    I've been playing around with this application and it seems okay but it is rather unclear how you do photos. Would I be right in thinking that you need to include a particular type of layer / field in your project for it to work?
+
+    I think this may be the biggest quick win for the project as there are a number of things where you have put...if you configured xxxx in the project.
+
+    Please can you put a more detailed description of how to configure a project correctly on the documentation so that people understand how to add a raster base map and add a layer with picture capabilities?
+
+    Also, I couldn't see a way to get the data back other than to zip the folder on the phone then email it back. Perhaps I didn't use the sync plugin correctly but ideally you want a button in the application which creates something to send back to the main PC. Email attachments might be the best way to go though.
+
+    Well done on getting it to version 1 though and I was able to digitise data on site with it and bring it back to the office.
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "714"
+  author_name: Evan Wright
+  author_email: evan.wright10@yahoo.co.nz
+  author_url: ""
+  published: 2019-12-27T00:13:05Z
+  parent_id: "0"
+  content: |-
+    Thanks very much to all the team involved in Qfield, its a winner. I have made a project for use in emergency management which was functioning okay but I think an update may have possibly changed things slightly.
+    When I zoom in to the project area I can only zoom in 3 times after which Qfield automatically shuts down when trying to 'redraw' the new area of interest. Previously I could zoom, pan etc til my heart was content. Whats changed? There's no scale dependencies on any of the layers and the layers are simple points, lines and polygons.
+    Can you help please.
+    Kind regards
+    Evan
+  post_url: /2019/03/28/qfield-1-0-is-here/
+  post_id: "5337"
+- id: "677"
+  author_name: 'Win a QField jump-start package, use #MyQField &#8211; GeoNe.ws'
+  author_email: ""
+  author_url: https://geone.ws/win-a-qfield-jump-start-package-use-myqfield/
+  published: 2019-04-12T19:25:24Z
+  parent_id: "0"
+  content: '[&#8230;] https://opengis.ch/2019/04/11/win-a-qfield-jump-start-package-use-myqfield/ [&#8230;]'
+  post_url: /2019/04/11/win-a-qfield-jump-start-package-use-myqfield/
+  post_id: "5526"
+- id: "694"
+  author_name: '#QField 1.2 released &#8211; GeoNe.ws'
+  author_email: ""
+  author_url: https://geone.ws/qfield-1-2-released/
+  published: 2019-10-09T15:39:37Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2019/10/03/qfield-1-2-released/ [&#8230;]'
+  post_url: /2019/10/03/qfield-1-2-released/
+  post_id: "7760"
+- id: "723"
+  author_name: QField 1.4 released &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-1-4-released/
+  published: 2020-03-03T21:23:56Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2020/03/03/qfield-1-4-released/ [&#8230;]'
+  post_url: /2020/03/03/qfield-1-4-released/
+  post_id: "9519"
+- id: "711"
+  author_name: QField 1.0 RC 1 | pigrecoinfinito
+  author_email: ""
+  author_url: https://pigrecoinfinito.wordpress.com/2019/01/08/qfield-1-0-rc-1/
+  published: 2019-01-08T15:13:37Z
+  parent_id: "0"
+  content: '[&#8230;] passati 4 anni (dic-2014) è stata una strada lunga e tortuosa, ma finalmente &#8211; OpenGIS.CH &#8211; è molto lieta di annunciare la disponibilità generale di QField 1.0 Release Candidate [&#8230;]'
+  post_url: /2019/01/08/qfield-1-0-rc1-2/
+  post_id: "9700"
+- id: "712"
+  author_name: Jonah Sullivan
+  author_email: jonah.sullivan@ga.gov.au
+  author_url: ""
+  published: 2019-01-08T23:33:32Z
+  parent_id: "0"
+  content: Congratulations on getting RC1 over the line.
+  post_url: /2019/01/08/qfield-1-0-rc1-2/
+  post_id: "9700"
+- id: "713"
+  author_name: guestagain
+  author_email: notmyrealaddress@gmail.com
+  author_url: ""
+  published: 2019-01-27T06:14:38Z
+  parent_id: "0"
+  content: |-
+    Thank you so much for all your work on this folks at OPENGIS!
+    Unfortunately, while the new version works great on one of my devices, it won't install properly and the program won't load on my Android S4(.4.2) device as it did previously.
+    Is this a known issue and is there any plans to fix this? If not, is there a way to use an older version on this deice?
+    Thanks!
+  post_url: /2019/01/08/qfield-1-0-rc1-2/
+  post_id: "9700"
+- id: "728"
+  author_name: Andreas Neumann
+  author_email: a.neumann@carto.net
+  author_url: ""
+  published: 2020-06-09T14:07:44Z
+  parent_id: "0"
+  content: |-
+    Dear Lucie,
+
+    Thank you for sharing the results. It already triggered some discussions: see thread starting at https://lists.osgeo.org/pipermail/qgis-developer/2020-June/061495.html
+
+    Could you please add your gdal_translate commands with all options and creation options that you used? There are some unexpected results we'd like to verify/clarify.
+
+    Thanks,
+    Andreas
+  post_url: /2020/06/09/offline-wms-benchmarking-raster-formats-for-qfield/
+  post_id: "11434"
+- id: "733"
+  author_name: Johannes
+  author_email: fisch.kopp@hotmail.de
+  author_url: ""
+  published: 2020-07-02T16:29:15Z
+  parent_id: "0"
+  content: |-
+    Interesting, thanks for testing.
+    What about the standard "Generate XYZ tiles (MBtiles)" process, is it different from the ones you tested? I have been using this for the sake of simplicity, usually with jpeg as tile format and a quality setting around 65; sometimes I also lower the DPI to around 75 as it doesn't seem to make much difference in the final image on my smartphone display (albeit not a high-end device). So far this has been working fine for me. In general I am more interested in fast rendering than file size but it's good to know there are options if storage is a concern.
+  post_url: /2020/06/09/offline-wms-benchmarking-raster-formats-for-qfield/
+  post_id: "11434"
+- id: "757"
+  author_name: HANRY
+  author_email: arnaud.hanry@le64.fr
+  author_url: ""
+  published: 2021-06-11T10:51:45Z
+  parent_id: "0"
+  content: |-
+    Hi, thanks for this topic.
+    I did not mange to use the command "gdal_translate -of GPKG « C:\test\ortho_test.tif » « C:\test\test_JPEG.gpkg » -co TILE_FORMAT=JPEG". I always have a message "Error 6 : too many command options".
+    Any idea ?
+    Thank you.
+  post_url: /2020/06/09/offline-wms-benchmarking-raster-formats-for-qfield/
+  post_id: "11434"
+- id: "785"
+  author_name: Hannes
+  author_email: hannes@enjoys.it
+  author_url: ""
+  published: 2022-03-21T17:33:56Z
+  parent_id: "0"
+  content: |-
+    I think this test is a bit misleading or maybe there is information missing.
+
+    For the "COG"s created here there were no overviews involved so it is no surprise the resulting file can perform badly. To make sure you get actual and well-defined COGs I would recommend using the COG driver: -of COG. This will also use the YCbCr color space for JPEG compression which is a huge (and virtually lossless) bonus on size.
+
+    For the MBTiles file there was no compression scheme specified so GDAL will have used PNG. No wonder that it is huge compared to a JPEG compressed GPKG. The big difference between MBTiles (PNG) and the PNG GPKG is surprising though and worth investigating.
+
+    Last but not least, a visual comparison of the lossy options is important.
+  post_url: /2020/06/09/offline-wms-benchmarking-raster-formats-for-qfield/
+  post_id: "11434"
+- id: "736"
+  author_name: QField 1.6 is out &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-1-6-is-out/
+  published: 2020-08-18T09:26:19Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2020/08/18/qfield-1-6-is-out/ [&#8230;]'
+  post_url: /2020/08/18/qfield-1-6-is-out/
+  post_id: "11573"
+- id: "737"
+  author_name: QField 1.7 Rockies hits the stage &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-1-7-rockies-hits-the-stage/
+  published: 2020-10-30T17:17:32Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2020/10/20/qfield-1-7-rockies-hits-the-stage/ [&#8230;]'
+  post_url: /2020/10/20/qfield-1-7-rockies-hits-the-stage/
+  post_id: "11735"
+- id: "746"
+  author_name: Peter Signer
+  author_email: pesusu@gmx.ch
+  author_url: ""
+  published: 2021-02-25T11:37:11Z
+  parent_id: "0"
+  content: ?super, congratulations!
+  post_url: /2021/02/24/powerful-and-gentle-qfield-1-8-selma-sneaked-in/
+  post_id: "12073"
+- id: "748"
+  author_name: Powerful and gentle QField 1.8 Selma sneaked in &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://www.geone.ws/powerful-and-gentle-qfield-1-8-selma-sneaked-in/
+  published: 2021-03-22T12:18:01Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2021/02/24/powerful-and-gentle-qfield-1-8-selma-sneaked-in/ [&#8230;]'
+  post_url: /2021/02/24/powerful-and-gentle-qfield-1-8-selma-sneaked-in/
+  post_id: "12073"
+- id: "752"
+  author_name: Eon
+  author_email: ijavillar19@gmail.com
+  author_url: ""
+  published: 2021-05-24T18:16:11Z
+  parent_id: "748"
+  content: Hi. I was wondering how can I enable the freehand editing functionality of QField? We need it badly in our field work when we tag natural resources, since creating nodes one at a time can be too time consuming and challenging. Is there a need to configure this on QGIS? If so, are there any tutorials available on how to enable this? Thanks!
+  post_url: /2021/02/24/powerful-and-gentle-qfield-1-8-selma-sneaked-in/
+  post_id: "12073"
+- id: "811"
+  author_name: How we build QField for many platforms &#8211; A look behind the curtain &#8211; OPENGIS.ch
+  author_email: ""
+  author_url: https://www.opengis.ch/2022/09/20/how-we-build-qfield-for-many-platforms-a-look-behind-the-curtain/
+  published: 2022-09-20T08:05:38Z
+  parent_id: "0"
+  content: '[&#8230;] endless iterative trial-and-error journey where you hope each day that eventually you will see the QGIS splash screen on your Android phone while all you see are endless lines of code and compiler [&#8230;]'
+  post_url: /2021/06/08/qfieldcloud-now-opensource-happy-10-years-of-field-mapping-with-qgis/
+  post_id: "12165"
+- id: "779"
+  author_name: Giovanni Manghi
+  author_email: giovanni.manghi@gmail.com
+  author_url: ""
+  published: 2022-03-05T11:17:17Z
+  parent_id: "0"
+  content: Hi Marco, thanks for this post. Without an Android 11 device at hand right now, I’m trying to understand the implications in a scenario that involves QField and synchronization of project files and datasources (gpkg, shp, etc) between an Android device and a desktop/laptop (no qfieldsync involved). Does this mean that if a (fpr example) a GPKG datasource will change on the mobile device there is no more automatic synchronization to the laptop/desktop (and vice versa)? What about the NC mobile app, would not be possible to manually add to it the path :/Android/data/ch.opengis.qfield/files/ so to still allow automatic sync?
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "780"
+  author_name: Mathieu
+  author_email: mathieu@opengis.ch
+  author_url: ""
+  published: 2022-03-06T05:41:32Z
+  parent_id: "779"
+  content: |-
+    Giovanni, with regards to nextcloud mobile app, on Android >= 11, the system doesn't allow 3rd party access to an app's files folder, so that won't work unfortunately. Simply stated, on Android >= 11, there is simply no way to do project folder synchronization. That's one of the main reasons why we think QField should be granted all files access whitelist on Google Play store.
+
+    You can still do direct USB cable transfers to/from the storage path (/Android/data/ch.opengis.qfield/files/).
+
+    In addition, you can send individual dataset files to a drive/nextcloud/dropbox folder via the "send to..." action action (described above). So say you have a project that's hosted on nextcloud, you can use the "import project folder" action to copy the content into your QField project, then regularly use the "send to..." action to send an updated geopackage dataset back into the nextcloud project folder.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "781"
+  author_name: Giovanni Manghi
+  author_email: giovanni.manghi@gmail.com
+  author_url: ""
+  published: 2022-03-06T09:52:39Z
+  parent_id: "0"
+  content: Mathieu, hi, thanks for the reply. I got my hands on an Android 11 device and checked myself that indeed if things stay as they are, any automatic synchronization is gone. What a shame for Google. A couple of notes.1) As QField (as any other app) can access only its own scoped storage, it seems to me that it could miss a functionality to delete files from this storage. I tested the following a) imported a project from folder &gt; Qfield imported everything from that folder b) from the original folder I deleted a file c) in Qfield I re-imported again, and the file that was deleted was not deleted from QField scoped storage. 2) you could check if esri's mobile thing had the exemption from this new policy, if they did it could be a strong argument in favor of QField getting it too. Cheers!
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "782"
+  author_name: Peter
+  author_email: peter.schmiz@gmx.de
+  author_url: ""
+  published: 2022-03-07T10:12:15Z
+  parent_id: "0"
+  content: |-
+    Thank you, guys, for your great work during the last months and this eye-opening post! I’m very much looking forward to QField 2 and all its great new functions ? Sad to hear, that Google seems to be unwillingly to give you the permissions you need.
+    For us, it will be quite a big change in our way to import and export packages to QField. Unfortunately, it will not be possible to connect via USB in our company. So, we will have to rely on the new import and send-to functions. While importing projects from folders seems to be not a big deal, I’m wondering if it is possible to export folders or zips via the “Send to…” functionality. We often have projects with plenty of photos taken, which have to be shared or exported as well.
+    Thanks and keep up the great work!
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "783"
+  author_name: Mobil QGIS förändras &#8211; Geosupportsystem
+  author_email: ""
+  author_url: https://geosupportsystem.se/2022/03/09/mobil-qgis-forandras/
+  published: 2022-03-09T08:49:13Z
+  parent_id: "0"
+  content: '[&#8230;] Mer om förändringarna här: https://www.opengis.ch [&#8230;]'
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "784"
+  author_name: Boswachter Marc ? (@Boswachter_Marc)
+  author_email: Boswachter_Marc@twitter.example.com
+  author_url: https://twitter.com/Boswachter_Marc
+  published: 2022-03-10T23:22:28Z
+  parent_id: "0"
+  content: Does this also affect QFieldCloud projects with the QField beta version v2.0.12 and the latest 0.13 release? I am using Android 12 and have sync problems on tablet and phone. Eventually, I will make an issue on github. Thanks for all.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "786"
+  author_name: QField Storage Access on Android &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-storage-access-on-android/
+  published: 2022-03-22T15:25:21Z
+  parent_id: "0"
+  content: '[…] https://www.opengis.ch/2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-andr&#8230; […]'
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "787"
+  author_name: jfmoyen
+  author_email: jfmoyen@gmail.com
+  author_url: https://jfmoyen.wordpress.com
+  published: 2022-04-04T10:06:12Z
+  parent_id: "0"
+  content: |-
+    Dear QField Ninjas,
+
+    Thanks for the explanation. I’m in the process of moving to QField (from FieldMove), and trying to set up things in a way that works for me. Similar to many, this permission business is annoying – I’m using a sync app (SyncThing) that, being a regular app, has no access to QField’s directory ( /Android/data/ch.opengis.qfield/files/ ). This is quite annoying, as it means I have to rely on USB transfer (or on moving to Cloud, which I may also explore, but that’s a topic for another day).
+
+    However there is something I fail to understand. On the same device, FieldMove stores its data in /FieldMove, and this is a location I can both read and write, from FieldMove as well as SyncThing (and I’m indeed sync-ing this folder with other devices). I also see a /qfield folder (it contains empty auth, basemaps, fonts and proj sub-folders): wouldn’t it be possible to use it to store the data ? What am I missing ?
+
+    Thanks !
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "788"
+  author_name: Marco Bernasocchi
+  author_email: marco@opengis.ch
+  author_url: https://berna.io
+  published: 2022-04-04T11:38:31Z
+  parent_id: "784"
+  content: Hi Marc, no if you use QFieldCloud you're good since all is written in the QField private folder
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "789"
+  author_name: Mathieu
+  author_email: mathieu@opengis.ch
+  author_url: ""
+  published: 2022-04-04T15:30:45Z
+  parent_id: "787"
+  content: |-
+    Greetings,
+
+    Regarding FieldMove, the reason why it can still store/access data in /FieldMove is because the app hasn't released any update since February of 2021. The new storage policy applies for new app and updates to pre-existing apps starting November of 2021. This means that for us to provide new features and important fixes to QField, we have to abide by those new storage restriction. FieldMove will find itself in the same situation whenever they push a new update to their apps.
+
+    The /QField folder was created using an older version of QField (up to 1.10), which were published prior to the November 2021 deadline. If you remove that folder and launch QField >= 2.0, you'll notice the folder isn't re-created then.
+
+    As for synchronization with SyncThing (or nextcloud, or {insert your favorite sync app}), we feel your pain. In QField 2.0, if you want to synchronize <em>individual datasets</em> within your project (say a geopackage), you can use the 'send to...' action on the desired datasets and select SyncThing.
+
+    In QField 2.1, we will add a function to compress a whole project folder into a ZIP and export that to a folder / SyncThing, etc. That will hopefully make your experience better there.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "790"
+  author_name: jfmoyen
+  author_email: jfmoyen@gmail.com
+  author_url: https://jfmoyen.wordpress.com
+  published: 2022-04-04T16:23:23Z
+  parent_id: "789"
+  content: |-
+    Thanks Mathieu.
+
+    I was not aware of the subtleties with pre-existing apps and dates. Yes FieldMove does not update often, which is one of the reason I'm trying to transition.
+
+    The "send to.." {sync app} may be a decent workaround, possibly an even better solution in fact, because it avoids syn-ing the temporary files created around a gpkg that is being edited (-shm and -wal) and gives me control of what I "push" to my reference copy. However my projects are photo-heavy (&gt; 350 photos in the current one, typically 20-30 shots per field day), so I also need to export the DCIM folder as well. Sending photos one by one would be a hassle, and really error-prone.
+
+    Indeed, the possibility to zip and send a folder would help. Still, 350 photos is more than 1.2 Go, which is big enough to try and avoid duplicating/processing/moving things to often ! The solution would be the possibility to "send to" only the photos that are not yet in the target folder, if you see what I mean - i.e. an an option "merge with target folder" or something similar.
+
+    Anyway, thanks for the answer...
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "791"
+  author_name: Mathieu
+  author_email: mathieu@opengis.ch
+  author_url: ""
+  published: 2022-04-04T18:10:46Z
+  parent_id: "790"
+  content: No problem, and I hope you'll find a new home in QField. This storage situation is not ideal but I'm sure that we can find adequate workflows for all users. Thanks for you're feedback and happy field mapping!
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "792"
+  author_name: QField 2.0 Arctic Fox is here &#8211; OPENGIS.ch
+  author_email: ""
+  author_url: https://www.opengis.ch/2022/04/05/qfield-2-0-is-here/
+  published: 2022-04-05T07:25:52Z
+  parent_id: "0"
+  content: '[&#8230;] Also, since November 2021, Google has enforced new storage access limitations for apps published on its Play store which prohibits direct storage access on Android 11 and above forcing QField to adapt and rely on importing projects and datasets to access those. As part of the enforcement of these new policies, Google came up with an arbitrary mechanism to whitelist some apps which allows those to retain full storage access given the user explicitly allowed for it. We here at OPENGIS.ch believe QField had ample justifications to be whitelisted, however, Google’s appeal process judged otherwise after a series of email exchanges detailing our reasoning. While we have so far lost this argument with Google, we will continue fighting for our users and for their freedom to choose. If you are interested in more details, read our blog post about it. [&#8230;]'
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "793"
+  author_name: Dubhain
+  author_email: isaac.o.braham@gmail.com
+  author_url: ""
+  published: 2022-04-07T08:14:15Z
+  parent_id: "791"
+  content: Would publishing on F-Droid make any difference? I don’t know if it’s just coincidence, but all the apps I have installed from F-Droid seem to have no trouble reading and writing from shared storage. Plenty have updated since February. I can’t believe they’ve all been granted special permission fro Google, but your hasn’t, so I though maybe their being on F-Droid made a difference?
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "794"
+  author_name: Attila Ferenc
+  author_email: attila.ferenc.80@gmail.com
+  author_url: ""
+  published: 2022-04-12T11:38:28Z
+  parent_id: "787"
+  content: We use FolderSync to sync files and folders with a NextCloud server in a Hungarian national park. You can add permissions to r/w the /Android/data folder. You can use it with dozens of cloud services (Google Drive, OneDrive, WebDav, etc.), and finely adjustable.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "795"
+  author_name: Mathieu
+  author_email: mathieu@opengis.ch
+  author_url: ""
+  published: 2022-04-13T07:55:01Z
+  parent_id: "780"
+  content: |-
+    Giovanni, additional functionalities have been implemented in QField 2.1:
+    1/ QField now allows for exporting a whole project to a user-picked folder on your device or directly onto a NextCloud account. This should make it infinitely easier to upload updated project content.
+    2/ Users are now able to compress (into a .zip container) and send project folders directly from QField and send that file using Android's sharing functionality. You can in one click zip up your data folder or your photos and send via email, messenger app, etc.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "796"
+  author_name: Mathieu
+  author_email: mathieu@opengis.ch
+  author_url: ""
+  published: 2022-04-13T07:56:10Z
+  parent_id: "790"
+  content: |-
+    jfmoyen, additional functionalities have been implemented in QField 2.1:
+    1/ QField now allows for exporting a whole project to a user-picked folder on your device or directly onto a NextCloud account. This should make it infinitely easier to upload updated project content.
+    2/ Users are now able to compress (into a .zip container) and send project folders directly from QField and send that file using Android's sharing functionality. You can in one click zip up your data folder or your photos and send via email, messenger app, etc.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "798"
+  author_name: Giovanni Manghi
+  author_email: giovanni.manghi@gmail.com
+  author_url: ""
+  published: 2022-05-04T16:09:49Z
+  parent_id: "794"
+  content: '@Attila Ferenc, could you expand about you use this FolderSync app and how this can help mitigating the new folder permission problem in QField?'
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "799"
+  author_name: Giovanni Manghi
+  author_email: giovanni.manghi@gmail.com
+  author_url: ""
+  published: 2022-05-04T16:11:44Z
+  parent_id: "0"
+  content: If I'm not wrong it has been attempted to contact Google trough an employee and see if they could raise an exception for QField, how did it went? Got any feedback?
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "800"
+  author_name: Giovanni Manghi
+  author_email: giovanni.manghi@gmail.com
+  author_url: ""
+  published: 2022-05-04T16:14:20Z
+  parent_id: "0"
+  content: Mathieu. you say that in QField 2.1 will be possible to "exporting a whole project to a user-picked folder on your device or directly onto a NextCloud account. This should make it infinitely easier to upload updated project content", and this is great, but what about the other way around?
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "801"
+  author_name: QField Änderung Speicher - Baumsicht
+  author_email: ""
+  author_url: https://baumsicht.de/qfield-aenderung-speicher/
+  published: 2022-05-05T05:47:33Z
+  parent_id: "0"
+  content: '[&#8230;] Ab Version 2 von QField mit Android 11 oder höher werden die Daten in einem anderen Verzeichnis gespeichert, siehe https://docs.qfield.org/get-started/storage/ und https://www.opengis.ch/2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-andr&#8230; [&#8230;]'
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "802"
+  author_name: Mathieu
+  author_email: mathieu@opengis.ch
+  author_url: ""
+  published: 2022-05-23T06:36:46Z
+  parent_id: "800"
+  content: Giovanni, the other way around (i.e. importing a nextcloud project folder into QField) as been available since 2.0.
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "987"
+  author_name: VxTedxV
+  author_email: viple.ted@gmx.fr
+  author_url: ""
+  published: 2023-06-06T07:12:21Z
+  parent_id: "0"
+  content: Votre site web ne permet pas de voir les commentaires des autres utilisateurs !
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "1807"
+  author_name: Roland
+  author_email: ratburgh@gmail.com
+  author_url: ""
+  published: 2024-07-18T12:32:22Z
+  parent_id: "0"
+  content: |-
+    Hi, I am late to the party. I run a data collection operation using tablets in remote areas of the countryside. We have 8 tablets running Android 10 and have become used to being able to collect data in the field and sync it back to the office. I sync Imported Projects to a Dropbox.
+    Recently, things were going so well, we decided to invest in more tablets for the field data collectors. The new tablets run Android 13 and I can no longer access my own data to run the sync operations.
+    Big frustration.
+    Is there scope to allow QField to sync data to a personal folder in Documents?
+    Can the existing export utility be amended to export whole projects including pictures and attachment files?
+    Is QField Cloud available to run from my own server without using cloud storage?
+  post_url: /2022/03/05/qfield-users-sit-down-we-need-to-talk-about-storage-access-on-android%ef%bf%bc/
+  post_id: "12794"
+- id: "807"
+  author_name: Rossella (@dbRossella)
+  author_email: dbRossella@twitter.example.com
+  author_url: https://twitter.com/dbRossella
+  published: 2022-09-08T21:11:39Z
+  parent_id: "0"
+  content: Thanks!
+  post_url: /2022/09/08/24th-contributors-qgis-meeting-in-firenze-2022/
+  post_id: "13134"
+- id: "812"
+  author_name: Andrew Wedlake
+  author_email: awedlake@me.com
+  author_url: ""
+  published: 2022-10-13T22:36:55Z
+  parent_id: "0"
+  content: But so far not in North America App Store, correct?
+  post_url: /2022/10/13/qfield-2-4-is-here-and-it-is-%f0%9f%8d%8ficious/
+  post_id: "13237"
+- id: "814"
+  author_name: Matthias Kuhn
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2022-10-28T12:08:30Z
+  parent_id: "812"
+  content: We are unaware of any unavailability there, but sometimes the search index was not updated. Can you try to navigate to https://qfield.org/get directly from your device?
+  post_url: /2022/10/13/qfield-2-4-is-here-and-it-is-%f0%9f%8d%8ficious/
+  post_id: "13237"
+- id: "815"
+  author_name: QField 2.4 is here, and it is &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-2-4-is-here-and-it-is/
+  published: 2022-11-08T09:44:30Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2022/10/13/qfield-2-4-is-here-and-it-is-%f0%9f%8d%8ficious/ [&#8230;]'
+  post_url: /2022/10/13/qfield-2-4-is-here-and-it-is-%f0%9f%8d%8ficious/
+  post_id: "13237"
+- id: "819"
+  author_name: How to contribute to QField &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/how-to-contribute-to-qfield/
+  published: 2022-12-06T09:19:34Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2022/12/06/how-to-contribute-to-qfield/ [&#8230;]'
+  post_url: /2022/12/06/how-to-contribute-to-qfield/
+  post_id: "13265"
+- id: "1093"
+  author_name: 'QField 3.0 &#039;Amazonia&#039;: nuevas características - MappingGIS'
+  author_email: ""
+  author_url: https://mappinggis.com/2023/11/qfield-3-0-amazonia-nuevas-caracteristicas/
+  published: 2023-11-15T19:06:14Z
+  parent_id: "0"
+  content: '[&#8230;] El equipo de OpenGIS.ch acaba de lanzar una nueva actualización de una de las app más populares para tomar datos en campo: QField. Aplicación que ha ganado el premio a la La mejor aplicación empresarial suiza en 2022. [&#8230;]'
+  post_url: /2022/11/03/best-of-swiss-enterprise-app-award-for-qfield/
+  post_id: "13286"
+- id: "820"
+  author_name: QField 2.5 is here, reaching new heights &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/qfield-2-5-is-here-reaching-new-heights/
+  published: 2022-12-08T20:43:11Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2022/11/14/qfield-2-5-is-here-reaching-new-heights/ [&#8230;]'
+  post_url: /2022/11/14/qfield-2-5-is-here-reaching-new-heights/
+  post_id: "13401"
+- id: "826"
+  author_name: 'QField 2.6: perfecting high-accuracy positioning &#8211; GeoNe.ws'
+  author_email: ""
+  author_url: https://geone.ws/qfield-2-6-perfecting-high-accuracy-positioning/
+  published: 2023-02-15T10:42:40Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2023/01/26/qfield-2-6-perfecting-high-accuracy-positioning/ [&#8230;]'
+  post_url: /2023/01/26/qfield-2-6-perfecting-high-accuracy-positioning/
+  post_id: "13565"
+- id: "831"
+  author_name: EonV
+  author_email: eon.villar19@gmail.com
+  author_url: ""
+  published: 2023-04-05T12:31:18Z
+  parent_id: "0"
+  content: Hopefully in the future releases, QField will have the functionality to filter (similar to the Query Builder in QGIS) layers based on a particular attribute in its table.
+  post_url: /2023/04/04/capturing-more-while-in-the-field-with-the-new-qfield-2-7/
+  post_id: "13686"
+- id: "1167"
+  author_name: QField 2.7 &quot;Heroic Hedgehog&quot;
+  author_email: ""
+  author_url: https://imasgal.com/qfield2-7-novedad/
+  published: 2024-01-09T18:52:35Z
+  parent_id: "0"
+  content: '[&#8230;] Compartimos el artículo [&#8230;]'
+  post_url: /2023/04/04/capturing-more-while-in-the-field-with-the-new-qfield-2-7/
+  post_id: "13686"
+- id: "1005"
+  author_name: 'QField 2.8: Boosting field work through external sensors &#8211; GeoNe.ws'
+  author_email: ""
+  author_url: https://geone.ws/qfield-2-8-boosting-field-work-through-external-sensors/
+  published: 2023-06-14T14:04:22Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2023/05/30/qfield-2-8-boosting-field-work-through-external-sensors/ [&#8230;]'
+  post_url: /2023/05/30/qfield-2-8-boosting-field-work-through-external-sensors/
+  post_id: "13776"
+- id: "1023"
+  author_name: Giovanni
+  author_email: giovanni.manghi@gmail.com
+  author_url: ""
+  published: 2023-06-21T23:39:48Z
+  parent_id: "0"
+  content: Amazing as usual. Have you already any experience in pairing QField with an hypsometer to measure trees height?
+  post_url: /2023/05/30/qfield-2-8-boosting-field-work-through-external-sensors/
+  post_id: "13776"
+- id: "1053"
+  author_name: mkuhngis
+  author_email: matthias@opengis.ch
+  author_url: ""
+  published: 2023-09-02T09:21:54Z
+  parent_id: "1023"
+  content: We didn't have any chance to yest one, I'd be excited to see someone try this.
+  post_url: /2023/05/30/qfield-2-8-boosting-field-work-through-external-sensors/
+  post_id: "13776"
+- id: "1037"
+  author_name: Crowdfunding for QField background tracking &#8211; GeoNe.ws
+  author_email: ""
+  author_url: https://geone.ws/crowdfunding-for-qfield-background-tracking/
+  published: 2023-07-04T11:29:47Z
+  parent_id: "0"
+  content: '[&#8230;] https://www.opengis.ch/2023/06/29/qfield-background-tracking/ [&#8230;]'
+  post_url: /2023/06/29/qfield-background-tracking/
+  post_id: "13811"
+- id: "1051"
+  author_name: Johannes
+  author_email: fisch.kopp@hotmail.de
+  author_url: ""
+  published: 2023-08-29T10:14:55Z
+  parent_id: "0"
+  content: Any updates on this? Background tracking would be an awesome option.
+  post_url: /2023/06/29/qfield-background-tracking/
+  post_id: "13811"
+- id: "1842"
+  author_name: Clemens Zuba
+  author_email: clemens.zuba@boras.se
+  author_url: ""
+  published: 2024-07-22T12:35:55Z
+  parent_id: "0"
+  content: What is the recent state? Have you already got enough money to start developing?
+  post_url: /2023/06/29/qfield-background-tracking/
+  post_id: "13811"
+- id: "1796"
+  author_name: Till Zaugg
+  author_email: rep-till@gmx.ch
+  author_url: ""
+  published: 2024-07-17T13:16:12Z
+  parent_id: "0"
+  content: |-
+    Really great to see the advancements of an already very powerful tool! Just used it yesterday once more in Valais. Always a joy! For the photos taken in the QField App (of a feature with an attribute of widget type: attachment) i noticed that the jpeg compression seems to be skipped. When jpeg-compressing the photos in post, they reduce 7-fold, to a normal jpeg-size. Is there a reason to store as "raw" (resp. uncompressed jpg) file? For reducing file size on the device and optimizing the cloud sync, it would be really great to have that compression already built-in when taking the photos with the app. Might this be an improvement that could be integratet in a future version?
+    Cheers
+  post_url: /2024/04/04/qfield-3-2-congo-making-your-life-easier/
+  post_id: "14227"
+- id: "1538"
+  author_name: Supercharge your fieldwork with QField&#8217;s project and app-wide plugins &#8211; OPENGIS.ch
+  author_email: ""
+  author_url: https://www.opengis.ch/2024/06/18/supercharge-your-fieldwork-with-qfields-project-and-app-wide-plugins/
+  published: 2024-06-18T06:45:31Z
+  parent_id: "0"
+  content: '[&#8230;] announced recently, QField now empowers users through a brand new plugin framework allowing for simple customization [&#8230;]'
+  post_url: /2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/
+  post_id: "14431"
+- id: "5353"
+  author_name: Larissa Posch
+  author_email: posch@e-c-o.at
+  author_url: https://e-c-o.at/
+  published: 2025-07-16T15:28:36Z
+  parent_id: "0"
+  content: "I have a question:\nIn this version, copying and pasting vector features to and from the clipboard is supported.\nBut what happens if I have a relationship to a linked child table in the feature (1:n). So far it has not duplicated the individual child objects. Presumably the problem is that the uuid, which serves as the primary key, must remain unique and the duplicated child objects must receive the new primary key.\nWill this be developed further?\n\nAlternatively, I wanted to use the Value Relation Widget with “multiple selection” instead of the Relation Reference Widget - the copy function should not have any problems with this. But there is no search bar displayed in Qfield (in Qgis it is!) and therefore this is unfortunately not an option for very long lists. \nIs there a solution for this?"
+  post_url: /2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/
+  post_id: "14431"
+- id: "1539"
+  author_name: 'QField 3.3 “Darién”: It is just the beginning &#8211; OPENGIS.ch'
+  author_email: ""
+  author_url: https://www.opengis.ch/2024/06/11/qfield-3-3-darien-it-is-just-the-beginning/
+  published: 2024-06-18T19:51:13Z
+  parent_id: "0"
+  content: '[&#8230;] Users interested in authoring plugins or better understanding the framework can already visit the dedicated documentation page, a sample plugin implementation sporting a weather forecast integration and our latest blog article. [&#8230;]'
+  post_url: /2024/06/18/supercharge-your-fieldwork-with-qfields-project-and-app-wide-plugins/
+  post_id: "14471"
+- id: "4734"
+  author_name: No Shave FUE
+  author_email: cierra_laborum@hotmail.com
+  author_url: https://netglu.com/read-blog/6861
+  published: 2025-04-25T16:16:30Z
+  parent_id: "0"
+  content: This post offered exactly what I was looking for.
+  post_url: /2025/03/04/qfield-3-5-fangorn-background-tracking-a-reality/
+  post_id: "15180"
+- id: "4571"
+  author_name: Ivory Homenick
+  author_email: jaylan_inventore@hotmail.com
+  author_url: https://pipzr.com/
+  published: 2025-04-04T14:03:18Z
+  parent_id: "0"
+  content: Your blog is a constant source of inspiration for me. Your passion for your subject matter shines through in every post, and it's clear that you genuinely care about making a positive impact on your readers.
+  post_url: /2025/04/02/fossgis-2025-what-a-week/
+  post_id: "15365"
+- id: "5268"
+  author_name: jason Beeching
+  author_email: jerel_recusandae@gmail.com
+  author_url: https://twitter.com/jasonAbeeching
+  published: 2025-06-26T01:29:17Z
+  parent_id: "0"
+  content: This article was packed with useful information—thanks for sharing!
+  post_url: /2025/06/25/celebrating-community-innovation-and-open-source-gis-in-sweden-aka-the-qgis-user-conference-2025/
+  post_id: "15655"
