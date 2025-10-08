@@ -29,7 +29,7 @@ categories:
   - uncategorised
 cover:
   alt: QField_AppAward_12-2022
-  image: /blog/wp-content/uploads/2022/12/QField_AppAward_12-2022.png
+  image: wp-content/uploads/2022/12/QField_AppAward_12-2022.png
 date: "2022-12-06T05:29:00+00:00"
 guid: https://www.opengis.ch/?p=13265
 obfx-footer-scripts: ""
@@ -44,7 +44,7 @@ url: /2022/12/06/how-to-contribute-to-qfield/
 ---
 QField is a community-driven open-source project. It is free to share, use and modify and it will stay like that. The very essence of a community is to help and support each other. And that's where YOU come into play. To make it work we need your support!
 
-{{< figure src="/blog/wp-content/uploads/2022/12/QField%5FAppAward%5F12-2022.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2022/12/QField%5FAppAward%5F12-2022.png" alt="" caption="" >}}
 
 For those who don’t know much about the concept of open source projects, a bit of background. Investing in open-source projects is a technical and ethical decision for OPENGIS.ch. Open source is a technological advantage, as we receive input from many developers worldwide who are motivated to work out the best possible software. It prevents our customers from vendor lock-in and allows complete ownership and control of the developed software. And finally, not only financially independent businesses and people should benefit from professional software but also those who might not have the financial means to pay for features, and licences.
 

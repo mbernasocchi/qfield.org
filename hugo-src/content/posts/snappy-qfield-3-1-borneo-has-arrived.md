@@ -22,7 +22,7 @@ categories:
   - qfield-highlights
 cover:
   alt: 287987844-8d7c6540-c32c-4d62-bf6e-1636a011567f
-  image: /blog/wp-content/uploads/2023/12/287987844-8d7c6540-c32c-4d62-bf6e-1636a011567f.png
+  image: wp-content/uploads/2023/12/287987844-8d7c6540-c32c-4d62-bf6e-1636a011567f.png
 date: "2024-01-10T17:11:36+00:00"
 guid: https://www.opengis.ch/?p=14069
 obfx-footer-scripts: ""
@@ -39,7 +39,7 @@ The launch of QField 3.0 was a big deal, but now we're back to focusing on small
 
 ## Main highlights
 
-{{< figure src="/blog/wp-content/uploads/2023/12/287987844-8d7c6540-c32c-4d62-bf6e-1636a011567f.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2023/12/287987844-8d7c6540-c32c-4d62-bf6e-1636a011567f.png" alt="" caption="" >}}
 
 One of the main improvements in this release is the brand-new functionality to enable **snapping to common angles** while digitizing. When enabled, the coordinate cursor will snap to configured angles alongside a visual guideline. This comes in handy when adding new geometries while surveying features with regular angles (e.g. buildings, parking lots, etc.). As QField gets more digitizing functionalities, we’ve taken the time to implement a nifty UI that collapses digitizing toggle buttons into a drawer, **leaving extra space for the map canvas** to shine through.
 

@@ -49,7 +49,7 @@ categories:
   - qfield-highlights
 cover:
   alt: qf-1mio-downloads-preview
-  image: /blog/wp-content/uploads/2025/05/qf-1mio-downloads-preview-1.jpg
+  image: wp-content/uploads/2025/05/qf-1mio-downloads-preview-1.jpg
 date: "2025-05-29T12:16:29+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=15494
@@ -67,7 +67,7 @@ url: /2025/05/29/1-million-downloads-qfields-big-milestone/
 
 Let's not beat around the bush: QField has hit **1+ million downloads**. What started as an ambitious open-source project has transformed into **a global tool that's changing how professionals collect spatial data in the field**. This big milestone is the result of years of dedication, with over 50,000 hours invested by our team. Our GeoNinjas contributed 14% of QGIS, while also driving open-source projects like _ModelBaker_ and _SwissLocator_.Thank you for making GIS nerds the **unsung heroes of fieldwork everywhere.** Here's to changing the world, one field at a time!
 
-{{< figure src="/blog/wp-content/uploads/2025/05/1mio%5Fqfield%5Ficon-1.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/1mio%5Fqfield%5Ficon-1.png" alt="" caption="" >}}
 
 * * *
 
@@ -79,7 +79,7 @@ Let's not beat around the bush: QField has hit **1+ million downloads**. What st
 
 Born in the Swiss Alps, raised by open-source, and now **roaming the globe**, QField has gone international! What started in Switzerland is now in the hands of field mappers, researchers, and GIS pros on six continents. Thank you for taking QField **worldwide**! 🌍
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-switzerland-5.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-switzerland-5.png" alt="" caption="" >}}
 
 #### **Mapping theworldone field at a time.**
 
@@ -91,7 +91,7 @@ One million downloads might sound like just a number, but for us, it represents 
 
 From humble beginnings to over 1 million downloads, QField has officially gone from “little app that could” to “open-source overachiever. **”** Thanks to the power of open source _(and probably some caffeine)_.
 
-{{< figure src="/blog/wp-content/uploads/2025/05/50-countries-qf-3.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/50-countries-qf-3.png" alt="" caption="" >}}
 
 **QField has hit 1 million downloads in over 150 countries.**
 
@@ -103,7 +103,7 @@ QField’s passport is full! 🌍 We’re blown away by how far our geospatial t
 
 Mapping knows no borders, just like QField’s growing community.
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-top-countries.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-top-countries.png" alt="" caption="" >}}
 
 * * *
 
@@ -111,7 +111,7 @@ Mapping knows no borders, just like QField’s growing community.
 
 This cross-platform flexibility helps professionals collect GIS data anywhere, anytime. QField goes wherever you do. Android? _Check_. iOS? _Check_. Desktop? _Check_. If it has a screen, we’re probably on it. Collect GIS data **anywhere, anytime.**
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-everywhere-3.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-everywhere-3.png" alt="" caption="" >}}
 
 QField isn't just software, it's a **community-driven project** that turns complex geospatial challenges into precise, actionable data. **Every download represents a connection to our core mission: making professional-grade mobile GIS accessible, reliable, and straightforward.**
 
@@ -121,7 +121,7 @@ QField isn't just software, it's a **community-driven project** that turns compl
 
 Our roadmap is packed with milestones and highlights that will continue to **push the boundaries** **of mobile GIS.**
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-milestones.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-milestones.png" alt="" caption="" >}}
 
 * * *
 
@@ -129,11 +129,11 @@ Our roadmap is packed with milestones and highlights that will continue to **pus
 
 You can play a key role in the **sustainable growth of QField**, the open-source digital good. Your support  can take many forms, like contributing... or:
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-support-1-7.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-support-1-7.png" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-support-2-5.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-support-2-5.png" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/05/qf-support-3-5.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/05/qf-support-3-5.png" alt="" caption="" >}}
 
 This not only streamlines and enhances your fieldwork but also gives you **access to the full QField ecosystem** with all its advantages. At the same time, you directly **contribute** to the continuous improvement of QField, ensuring its impact grows for everyone.
 

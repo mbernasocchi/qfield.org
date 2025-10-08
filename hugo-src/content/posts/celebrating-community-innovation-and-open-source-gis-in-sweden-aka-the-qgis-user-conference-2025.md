@@ -76,7 +76,7 @@ categories:
   - qgis
 cover:
   alt: "20250603_154007"
-  image: /blog/wp-content/uploads/2025/06/20250603_154007.jpg
+  image: wp-content/uploads/2025/06/20250603_154007.jpg
 date: "2025-06-25T04:45:00+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=15655
@@ -96,11 +96,11 @@ It was such a pleasure to be part of the QGIS User Conference 2025 in Norrköpin
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="/blog/wp-content/uploads/2025/06/20250605%5F175137.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250605%5F175137.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250603%5F154007.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250603%5F154007.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250602%5F163017.jpg" alt="" caption="" >}}  
+{{< figure src="wp-content/uploads/2025/06/20250602%5F163017.jpg" alt="" caption="" >}}  
 {{< /gallery >}}  
 
 # 🚀 Talks & Presentations
@@ -151,11 +151,11 @@ We were excited to see **Alexandra Nozik** from the Leibniz Centre for Tropical 
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="/blog/wp-content/uploads/2025/06/20250603%5F093725.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250603%5F093725.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250603%5F101949.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250603%5F101949.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250603%5F163129.jpg" alt="" caption="" >}}  
+{{< figure src="wp-content/uploads/2025/06/20250603%5F163129.jpg" alt="" caption="" >}}  
 {{< /gallery >}}  
 
 In this workshop, Zsanett, _QField Product Manager_, went through **the** **complete fieldwork process**: setting up a QGIS project, publishing the project via QFieldCloud, collecting data via the QField mobile app and synchronising the field data back to your main dataset in the office. QField works on top of QGIS and allows users to set up maps and forms in QGIS on their workstation and deploy them in the field. QField uses QGIS's data providers (OGR, GDAL, PostGIS and others) and supports most common file formats. QField combines **a** **minimal design with sophisticated technology** that allows intuitive viewing and editing of data. QField's map rendering is supported by the QGIS rendering engine, so **the results are identical** and the full range of styling options available on the desktop is available. Editing forms in QField respect the QGIS configuration and are optimised for touch interaction. **QFieldCloud makes field collaboration much easier.** Participants learned about configuring users with different rights, collecting offline and online data, and synchronizing field data and QGIS project data.
@@ -169,11 +169,11 @@ Definitely not our last one. 💚
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="/blog/wp-content/uploads/2025/06/20250604%5F094617.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250604%5F094617.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250604%5F095441.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250604%5F095441.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250604%5F114641.jpg" alt="" caption="" >}}  
+{{< figure src="wp-content/uploads/2025/06/20250604%5F114641.jpg" alt="" caption="" >}}  
 {{< /gallery >}}  
 
 * * *
@@ -192,9 +192,9 @@ After the conference, I joined the contributor meeting along with four QGIS deve
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="/blog/wp-content/uploads/2025/06/20250603%5F150639-1.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250603%5F150639-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250604%5F192535.jpg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2025/06/20250604%5F192535.jpg" alt="" caption="" >}}
 
-{{< figure src="/blog/wp-content/uploads/2025/06/20250606%5F101808.jpg" alt="" caption="" >}}  
+{{< figure src="wp-content/uploads/2025/06/20250606%5F101808.jpg" alt="" caption="" >}}  
 {{< /gallery >}}  

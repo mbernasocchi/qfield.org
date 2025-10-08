@@ -19,7 +19,7 @@ categories:
   - qfield
 cover:
   alt: Qfield_Banner_1500x500_BOSA_new
-  image: /blog/wp-content/uploads/2023/09/Qfield_Banner_1500x500_BOSA_new.png
+  image: wp-content/uploads/2023/09/Qfield_Banner_1500x500_BOSA_new.png
 date: "2023-09-15T05:00:00+00:00"
 guid: https://www.opengis.ch/?p=13921
 obfx-footer-scripts: ""
@@ -32,7 +32,7 @@ title: 'OPENGIS.ch and Oslandia: A Strategic Partnership to Advance QField and Q
 url: /2023/09/15/opengis-ch-and-oslandia-a-strategic-partnership-to-advance-qfield-and-qfieldcloud/
 
 ---
-{{< figure src="/blog/wp-content/uploads/2023/09/Qfield%5FBanner%5F1500x500%5FBOSA%5Fnew.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2023/09/Qfield%5FBanner%5F1500x500%5FBOSA%5Fnew.png" alt="" caption="" >}}
 
 **We are extremely happy to announce that we have partnered strategically with**Oslandia **to push the leading #fieldwork app #QField even further.**
 
@@ -46,7 +46,7 @@ At [OPENGIS.ch](http://OpenGIS.ch), we have always been committed to the princip
 
 ### Advancing QField and QFieldCloud Together
 
-{{< figure src="/blog/wp-content/uploads/2023/09/Logo%5FQFieldCloud-by-OpenGIS%5Ftransparent-1.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2023/09/Logo%5FQFieldCloud-by-OpenGIS%5Ftransparent-1.png" alt="" caption="" >}}
 
 [QField](https://qfield.org), with almost 1 million downloads, is the leading app for fieldwork tasks. It empowers professionals in various sectors, such as environmental research, agriculture, urban planning, and disaster management, to efficiently collect data and conduct analyses in the field. With our strategic partnership with Oslandia, we are committed to pushing the boundaries of QField even further.
 
@@ -64,4 +64,4 @@ With QField as our flagship app, we are confident that this strategic collaborat
 
 Join us in celebrating this exciting new chapter as we embark on a shared journey towards innovation and excellence in fieldwork applications.
 
-{{< figure src="/blog/wp-content/uploads/2023/09/Screenshot-from-2023-09-14-17-13-02.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2023/09/Screenshot-from-2023-09-14-17-13-02.png" alt="" caption="" >}}

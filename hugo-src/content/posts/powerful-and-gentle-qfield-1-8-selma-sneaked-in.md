@@ -39,7 +39,7 @@ categories:
   - qfield-highlights
 cover:
   alt: freehand
-  image: /blog/wp-content/uploads/2021/02/freehand.png
+  image: wp-content/uploads/2021/02/freehand.png
 date: "2021-02-24T06:31:00+00:00"
 guid: https://www.opengis.ch/?p=12073
 obfx-footer-scripts: ""
@@ -63,7 +63,7 @@ Let's have a look.
 
 This might be a feature that brings a lot of fun and professionalism to your work. The freehand digitizing mode allows the user to "draw" lines and polygons with the stylus pen. The mode is available for adding line/polygon features as well as for the ring tool of the geometry editor.
 
-{{< figure src="/blog/wp-content/uploads/2021/02/freehand.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2021/02/freehand.png" alt="" caption="" >}}
 
 Together with the powerful options in the topological editing where you can snap to existing features and avoid overlaps, it's very convenient to digitize complex shapes.
 
@@ -71,7 +71,7 @@ Together with the powerful options in the topological editing where you can snap
 
 Speaking of fun. One day, a guy from the QGIS community asked us if we could implement the functionality to zoom in and zoom out like he is able to do with an app called Maps from a company named Google. I didn't know what he meant, but he explained: Single finger double tap-and-hold zoom gesture (which allows you to zoom smoothly from anywhere on the screen). Wow! Didn't know it before, but it's super neat! So we made it available in QField as well.
 
-{{< figure src="/blog/wp-content/uploads/2021/02/zoom2-1.gif" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2021/02/zoom2-1.gif" alt="" caption="" >}}
 
 If you are used to it, it's quite easy. But for beginners it can be a bit difficult. So for people who are not that deft - and to keep the UX self-explanatory and simple - we also added two buttons + / - to zoom in and zoom out with just one finger. So now even a clumsy pirate with a hook instead of a hand can collect data with QField :-)
 
@@ -141,7 +141,7 @@ The Beta Testers are our secret heroes. They report bugs and inconveniences befo
 
 And what do the beta testers get in return? Well, they can be the very first to try out the great new features. This is exciting and fun. So don't hesitate. Join the beta.
 
-{{< figure src="/blog/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-21-at-21.54.31.jpeg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2021/02/WhatsApp-Image-2021-02-21-at-21.54.31.jpeg" alt="" caption="" >}}
 
 In the Play Store you should find this section under the "QField for QGIS" app listing. Enjoy the feature frenzy and report the problems at [qfield.org/issues](https://qfield.org/issues)
 
@@ -149,4 +149,4 @@ In the Play Store you should find this section under the "QField for QGIS" app l
 
 ... why this release is called "Selma". It's of course because of the Mount Selma in Australia... And because it's the name of my beloved cat. That's her - Selma Eulenkopf - staring at me while I'm coding QField.
 
-{{< figure src="/blog/wp-content/uploads/2021/02/selm%5Foffice.jpeg" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2021/02/selm%5Foffice.jpeg" alt="" caption="" >}}

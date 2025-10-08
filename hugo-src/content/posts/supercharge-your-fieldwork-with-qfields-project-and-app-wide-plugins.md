@@ -60,7 +60,7 @@ categories:
   - qfield-highlights
 cover:
   alt: qfield-bird-plugin
-  image: /blog/wp-content/uploads/2024/06/qfield-bird-plugin.gif
+  image: wp-content/uploads/2024/06/qfield-bird-plugin.gif
 date: "2024-06-18T04:45:00+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=14471
@@ -98,7 +98,7 @@ It’s advised to download a version of QField running on your desktop environme
 
 The project archive consists of a point vector layer ( `observations.gpkg`), a project file ( `birdwatcher.qgz`) as well as a project plugin ( `birdwatcher.qml`) which we will look into below. Please note that the point vector layer’s attribute form is already configured to display captured photos. We will not spend time on attribute form setup in this post; [see this relevant documentation page](https://docs.qfield.org/how-to/attributes-form/#configure-attachment-widget) if you are interested in knowing how that was achieved.
 
-{{< figure src="/blog/wp-content/uploads/2024/06/123-2.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2024/06/123-2.png" alt="" caption="" >}}
 
 We can now test the project plugin by opening the project ( `birdwatcher.qgz`) in QField. Users familiar with QField will notice a new ‘camera’ tool button present on the top-right corner of the map canvas. This button was added by the project plugin. You can press on it, to open the QField camera, take a photo (of yourself, a random object on your table, or with a bit of luck a bird), and witness how that leads to a point feature creation.
 
@@ -183,15 +183,15 @@ This will require you to registered for a freely available QFieldCloud community
 
 Let’s open QGIS, and log into QFieldCloud by clicking on the QFieldSync toolbar’s blue cloud icon. Once logged in, click on the ‘Create New Project’ tool button found at the bottom of the dialog.
 
-{{< figure src="/blog/wp-content/uploads/2024/06/projects.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2024/06/projects.png" alt="" caption="" >}}
 
 In the subsequent panel dialog, choose the ‘Create a new empty QFieldCloud project’ and then hit the ‘Next’ button. Give it a name and a description, and for the local directory, pick the folder within which you had extracted the birdwatcher project, then hit the ‘Create’ button.
 
-{{< figure src="/blog/wp-content/uploads/2024/06/settings.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2024/06/settings.png" alt="" caption="" >}}
 
 QFieldSync will then ask you to upload your newly created cloud project environment to the server. Notice how the project plugin file (birdwatcher.qml) is part of the files to be delivered to the cloud. Confirm by clicking on the ‘Upload to server’ button.
 
-{{< figure src="/blog/wp-content/uploads/2024/06/uploads.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2024/06/uploads.png" alt="" caption="" >}}
 
 When QFieldSync is finished uploading, you are ready to take your mobile device, open QField, log into your QFieldCloud account and download the cloud project. Once the cloud project is loaded, you will be asked for permission to load the project plugin, which you can grant on a permanent or one-time basis.
 
@@ -201,7 +201,7 @@ Bravo! You have successfully deployed a project plugin through QFieldCloud.
 
 Let’s move on to creating a functional app-wide plugin directory. [Download this sample app-wide plugin](https://github.com/opengisch/qfield-snap/releases/download/v1.0/qfield-snap-plugin.zip) and extract it into a new directory placed in the ‘plugins’ directory, itself found within the QField app directory. The location of the app directory is provided in the ‘About QField’ overlay, take note of it prior to extracting the plugin if you have not done so yet.
 
-{{< figure src="/blog/wp-content/uploads/2024/06/file%5Fstructure.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2024/06/file%5Fstructure.png" alt="" caption="" >}}
 
 As seen in the screenshot above, which demonstrates the directory hierarchy, a given plugin directory must contain at least two files: a main.qml file, which QField will use to activate the plugin, and a metadata.txt file containing basic information on the plugin, such as the plugin name, author details, and version.
 
@@ -227,7 +227,7 @@ While currently not as smooth as deploying a project plugin through QFieldCloud,
 
 In QField, open the plugins manager popup found in the settings panel, and use the ‘Install plugin from URL’ button to paste a URL pointing to a zipped plugin file.
 
-{{< figure src="/blog/wp-content/uploads/2024/06/application-plugins.png" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2024/06/application-plugins.png" alt="" caption="" >}}
 
 You should keep the zipped archive file name consistent for a better user experience, as it is used to determine the installation directory. This is an important consideration to take into account when offering plugin updates. If your zipped plugin file name changes, the plugin will not be updated but rather added to a new directory alongside the previously installed plugin.
 

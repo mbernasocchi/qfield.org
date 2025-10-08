@@ -33,7 +33,7 @@ categories:
   - qfield-highlights
 cover:
   alt: qfield_love_04.resized
-  image: /blog/wp-content/uploads/2019/10/qfield_love_04.resized.jpg
+  image: wp-content/uploads/2019/10/qfield_love_04.resized.jpg
 date: "2019-10-03T05:29:45+00:00"
 guid: https://www.opengis.ch/?p=7760
 parent_post_id: null
@@ -64,7 +64,7 @@ This new release comes with exciting new features and also contains some first u
 
 ### Value relation widget
 
-{{< figure src="/blog/wp-content/uploads/2019/10/value-relation.gif" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2019/10/value-relation.gif" alt="" caption="" >}}
 
 If you need to choose the type of a material of the manhole you are inspecting or to select the owner of the parcel which you are drawing, that's when you want a **combo box with available values**. This has been possible in QField for a long time, but was hard to set up. Since this release it's much easier thanks to the integration of value relation widgets.
 
@@ -72,7 +72,7 @@ Not only do they make configuration easier, they also allow for a completely new
 
 ### Authentication dialog for protected services
 
-{{< figure src="/blog/wp-content/uploads/2019/10/login.gif" alt="" caption="" >}}
+{{< figure src="wp-content/uploads/2019/10/login.gif" alt="" caption="" >}}
 
 Just as well as we love open source, we love open data. But not all data are meant for public and some deserve protection. Even more you don't want to allow everyone to edit your data.
 
