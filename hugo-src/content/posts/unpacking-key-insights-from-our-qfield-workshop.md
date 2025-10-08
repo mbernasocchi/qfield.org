@@ -71,7 +71,7 @@ This vision is taking shape through the forging of strategic partnerships with g
 
 And then it became reality: In the summer of 2024, heavy rains caused severe flooding in Switzerland and, suddenly, QField became a vital tool for supporting emergency response through data surveys and photo documentation.
 
-{{< figure src="/wp-content/uploads/2025/03/qfield-rapidmapper.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/03/qfield-rapidmapper.webp" alt="" caption="" >}}
 
 With this emotional story, the technical lead, Mathieu took over and shared other QField **success stories** and **several mapping use cases** with partners in Finland and Tonga. But seamless fieldwork wouldn’t be possible without QFieldCloud, so Ivan provided an **insight into the last years’ QFieldCloud enhancements**, before diving into the busy server-side roadmap for 2025, which includes **many new features** related to the authentication, security, internationalization and performance. Finally, Zsanett shared QField product **news and updates**, including new storage capacities like WebDAV and new packaging capabilities. Last but not least, the new Fangorn version introduces **new features developed by the evolving QField Community**.
 

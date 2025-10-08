@@ -56,7 +56,7 @@ categories:
   - qgis-plugins
 cover:
   alt: xlsformconverter-qgis-qfield
-  image: /wp-content/uploads/2025/05/xlsformconverter-qgis-qfield.webp
+  image: /blog/wp-content/uploads/2025/05/xlsformconverter-qgis-qfield.webp
 date: "2025-06-02T04:57:00+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=15627
@@ -75,7 +75,7 @@ As the name suggests, the plugin converts XLSForm survey files into ready-to-use
 
 Migrating to QField was never easier!  
 
-{{< figure src="/wp-content/uploads/2025/05/xlsformconverter-qgis-qfield-1.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/05/xlsformconverter-qgis-qfield-1.webp" alt="" caption="" >}}
 
 Even more exciting is that the converted QGIS project includes all the necessary settings for use with QField, thanks to a nifty QFieldCloud integration. With just a single checkbox, you can upload your generated project to the cloud and begin gathering data—either as a standalone surveyor or collaboratively as part of a team.
 
@@ -85,7 +85,7 @@ We believe this provides a fantastic solution for organisations and groups famil
 
 The plugin adds an algorithm to QGIS’ processing toolbox that converts a XLSForm file – Microsoft Excel’s .xls or .xlsx as well as LibreOffice Calc’s .ods – into a QGIS project containing a main survey layer and a basemap.
 
-{{< figure src="/wp-content/uploads/2025/05/xlsformconverter-algorithm-screenshot.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/05/xlsformconverter-algorithm-screenshot.webp" alt="" caption="" >}}
 
 The layer’s geometry type will reflect the first geometry-driven question type found in the XLSForm, namely a point geometry for geopoint, a line geometry for geotrace, or a polygon geometry for geoshape.
 

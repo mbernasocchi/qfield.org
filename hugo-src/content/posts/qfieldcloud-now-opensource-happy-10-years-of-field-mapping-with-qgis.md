@@ -52,7 +52,7 @@ categories:
   - social-responsibility
 cover:
   alt: qfield-git-history
-  image: /wp-content/uploads/2021/06/qfield-git-history.png
+  image: /blog/wp-content/uploads/2021/06/qfield-git-history.png
 date: "2021-06-08T06:01:00+00:00"
 guid: https://www.opengis.ch/?p=12165
 obfx-footer-scripts: ""
@@ -72,7 +72,7 @@ If you want to quickly try it out, head to [https://qfield.cloud](https://qfiel
 
 QFieldCloud's unique technology allows your team to focus on what's important, making sure you efficiently get the best field data possible. Thanks to the tight integration with the leading GIS fieldwork app QField, your team will be able to start surveying and digitising data in no time.
 
-{{< figure src="/wp-content/uploads/2021/06/qfield-git-history.png" alt="QField git history" caption="QField git history" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/qfield-git-history.png" alt="QField git history" caption="QField git history" >}}
 
 What a journey it was and what plans do we already have... It has now been 10 years since I [pushed the first scripts](https://github.com/qgis/QGIS-Android/commit/664145015f31783a5687807a7b77049d4e6938c9) to build Quantum GIS for Android and it is incredible what we've been able to achieve thanks to a vibrant community, sponsors and especially our [fantastic team](https://opengis.ch/#team).
 
@@ -124,9 +124,9 @@ I still remember the feeling that day when after almost 3 months, of fighting wi
 
 
 {{< gallery cols="3" >}}  
-{{< figure src="/wp-content/uploads/2011/08/P20110820193600.png" alt="First data is shown on the print composer" caption="First data is shown on the print composer" >}}  
-{{< figure src="/wp-content/uploads/2011/08/P20110820193325.png" alt="Map canvas still had some glitches" caption="Map canvas still had some glitches" >}}  
-{{< figure src="/wp-content/uploads/2011/08/wpid-P20110821115718.png" alt="Finally a map is rendered in the canvas" caption="Finally a map is rendered in the canvas" >}}  
+{{< figure src="/blog/wp-content/uploads/2011/08/P20110820193600.png" alt="First data is shown on the print composer" caption="First data is shown on the print composer" >}}  
+{{< figure src="/blog/wp-content/uploads/2011/08/P20110820193325.png" alt="Map canvas still had some glitches" caption="Map canvas still had some glitches" >}}  
+{{< figure src="/blog/wp-content/uploads/2011/08/wpid-P20110821115718.png" alt="Finally a map is rendered in the canvas" caption="Finally a map is rendered in the canvas" >}}  
 {{< /gallery >}}  
 
 ### GSoC 2011 results
@@ -151,7 +151,7 @@ cheers
 
 Quantum GIS for Android was a reality and I was fully committed to keeping working on it. Turns out I wasn't wrong :)
 
-{{< figure src="/wp-content/uploads/2021/06/image-1.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/image-1.png" alt="" caption="" >}}
 
 ## Classical - QGIS for Android grows
 
@@ -177,10 +177,10 @@ From the beginning on, the idea behind QGIS for android was to eventually ditch 
 
 
 {{< gallery cols="3" >}}  
-{{< figure src="/wp-content/uploads/2021/06/Legend2-1.png" alt="UX mockup for the first QML based app" caption="UX mockup for the first QML based app" >}}  
-{{< figure src="/wp-content/uploads/2021/06/Legend2-2.png" alt="UX mockup for the first QML based app" caption="UX mockup for the first QML based app" >}}  
-{{< figure src="/wp-content/uploads/2021/06/Map.png" alt="UX mockup for the first QML based app" caption="UX mockup for the first QML based app" >}}  
-{{< figure src="/wp-content/uploads/2021/06/Screenshot-from-2021-06-06-19-24-45.png" alt="Screenshots of the first QML based UI" caption="Screenshots of the first QML based UI" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/Legend2-1.png" alt="UX mockup for the first QML based app" caption="UX mockup for the first QML based app" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/Legend2-2.png" alt="UX mockup for the first QML based app" caption="UX mockup for the first QML based app" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/Map.png" alt="UX mockup for the first QML based app" caption="UX mockup for the first QML based app" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/Screenshot-from-2021-06-06-19-24-45.png" alt="Screenshots of the first QML based UI" caption="Screenshots of the first QML based UI" >}}  
 {{< /gallery >}}  
 
 ### The Python failure
@@ -199,11 +199,11 @@ The pivotal point of the Middle Ages was definitely 20.09.2013, when Tim Sutton 
 
 
 {{< gallery cols="3" >}}  
-{{< figure src="/wp-content/uploads/2021/06/wpid-Screenshot%5F2013-09-19-01-19-31.jpeg" alt="" caption="" >}}  
-{{< figure src="/wp-content/uploads/2021/06/wpid-Screenshot%5F2013-09-17-23-31-39.jpeg" alt="" caption="" >}}  
-{{< figure src="/wp-content/uploads/2021/06/wpid-Screenshot%5F2013-09-20-14-30-15.jpeg" alt="" caption="" >}}  
-{{< figure src="/wp-content/uploads/2021/06/1379695920037.jpg" alt="Tim Sutton announcing QGIS 2.0" caption="Tim Sutton announcing QGIS 2.0" >}}  
-{{< figure src="/wp-content/uploads/2021/06/1379696319910-1.jpg" alt="Tim Sutton announcing QGIS 2.0 for Android" caption="Tim Sutton announcing QGIS 2.0 for Android" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/wpid-Screenshot%5F2013-09-19-01-19-31.jpeg" alt="" caption="" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/wpid-Screenshot%5F2013-09-17-23-31-39.jpeg" alt="" caption="" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/wpid-Screenshot%5F2013-09-20-14-30-15.jpeg" alt="" caption="" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/1379695920037.jpg" alt="Tim Sutton announcing QGIS 2.0" caption="Tim Sutton announcing QGIS 2.0" >}}  
+{{< figure src="/blog/wp-content/uploads/2021/06/1379696319910-1.jpg" alt="Tim Sutton announcing QGIS 2.0 for Android" caption="Tim Sutton announcing QGIS 2.0 for Android" >}}  
 {{< /gallery >}}  
 
 After the launch followed a very active time of keeping QGIS for Android on pair with the desktop versions leading to a regular release of updates on the playstore between 2013 and late 2014. This is also when Matthias Kuhn started committing to the QGIS for Android [repository](https://github.com/qgis/QGIS-Android/graphs/contributors).
@@ -220,7 +220,7 @@ Early 2015 was also when Matthias Kuhn and myself decided to join forces in OPEN
 
 The project never had a clear name, at times it was called QGIS for Android at times QGIS mobile, we felt that to clearly convey what we were building we needed a clear, simple and poignant name.
 
-{{< figure src="/wp-content/uploads/2021/06/image-6.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/image-6.png" alt="" caption="" >}}
 
 > It is with great pleasure that we want to announce the new name for what was briefly known as QGIS mobile.
 >
@@ -232,7 +232,7 @@ The project never had a clear name, at times it was called QGIS for Android at t
 
 https://vimeo.com/116231850
 
-{{< figure src="/wp-content/uploads/2021/06/image-7.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/image-7.png" alt="" caption="" >}}
 
 > QField Experimental is out, after a couple of months of requirements gathering, private early alpha testing and foremost tons of  emails requesting access to the testes group we decided today to put the current BETA version in the playstore.
 >
@@ -242,7 +242,7 @@ https://vimeo.com/116231850
 
 Since the beginning of QGIS for android, to distribute the needed Qt libraries, we used a project called "ministro". This was interesting because it allowed to download the libraries only once but on the other hand, it was a very painful experience for the user that needed to install a second app before getting QField to start. Around the end of 2015 it was so far, we finally managed to get rid of that dependency and make the installation process as streamlined as possible.
 
-{{< figure src="/wp-content/uploads/2021/06/image-8.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/image-8.png" alt="" caption="" >}}
 
 > It’s done, finally we managed to get rid of Ministro so that we finally can say, QField runs on any android from 4.0.3 (ICS). This makes as of today (according to [google](https://developer.android.com/about/dashboards/index.html)) 96% of the android installations worldwide.
 >
@@ -254,7 +254,7 @@ In these 3.5 years, a continuous, mainly volunteer-driven iterative process led 
 
 After a series of release candidates with lots of feedback from the community, we felt it was time to move into a New Era.
 
-{{< figure src="/wp-content/uploads/2021/06/image-9.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/image-9.png" alt="" caption="" >}}
 
 > It was a long and winding road but we are very excited to announce the general availability of QField 1.0 Release Candidate 1.
 >
@@ -266,7 +266,7 @@ After a series of release candidates with lots of feedback from the community, w
 
 Fast forward to March 28th 2019,
 
-{{< figure src="/wp-content/uploads/2021/06/image-10.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/image-10.png" alt="" caption="" >}}
 
 > Let’s get straight to the point
 >
@@ -284,7 +284,7 @@ In the last 2 years the development pace increased tremendously, the sponsored f
 
 Our QField core team grew more and now thanks to David Signer's lead and Mathieu Pellerin keen eye for UX we're pushing QField even further.
 
-{{< figure src="/wp-content/uploads/2021/06/Screenshot-from-2021-06-07-00-08-00.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/06/Screenshot-from-2021-06-07-00-08-00.png" alt="" caption="" >}}
 
 Going into all releases would be so much information that this post would turn into a 3 volumes classic, and since starting from QField 1.0 we've documented each new release, we're just going to link them: [/category/qfield/highlights/](/category/qfield/highlights/)
 

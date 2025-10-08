@@ -32,7 +32,7 @@ categories:
   - social-responsibility
 cover:
   alt: qfield-field-training
-  image: /wp-content/uploads/2022/02/qfield-field-training.jpg
+  image: /blog/wp-content/uploads/2022/02/qfield-field-training.jpg
 date: "2022-02-02T06:43:00+00:00"
 guid: https://www.opengis.ch/?p=12534
 obfx-footer-scripts: ""
@@ -48,7 +48,7 @@ url: /2022/02/02/qfield-data-crucial-in-disaster-relief-after-tongas-volcanic-er
 ---
 **For once, it's not an app from the Silicon Valley, but from Laax in the Swiss Alps that made the news. By publishing QField as an open-source app, OPENGIS.ch allows companies, organisations and even countries without the necessary financial means to have the opportunity to benefit from this important data collection app. And it is being used: Over half a million downloads have already been achieved. Now, since the volcanic eruption in Tonga on 15 January 2022, the app of the small Laax-based company is playing a not-unimportant role in disaster response planning.**
 
-{{< figure src="/wp-content/uploads/2022/02/qfield-field-training.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/02/qfield-field-training.jpg" alt="" caption="" >}}
 
 We've only been around for seven years. We could almost pass for a start-up. But OPENGIS.ch is already a household name when it comes to field data collection. OPENGIS.ch makes its field mapping tool QField available without restrictions (i.e. open-source) so that companies or even nations can collect their geographical data. In this way, data is brought from the field to the office and provides important insights for future decisions.
 
@@ -90,7 +90,7 @@ Further information on QField in connection with Tonga:
 
 OPENGIS.ch GmbH is a Swiss software development company based in Laax. OPENGIS.ch employs 19 people and works mainly in the field of spatial software development, geodata infrastructure deployments and professional support. Personalised open source GIS solutions are often planned and developed as desktop or mobile applications. OPENGIS.ch finances itself through tailor-made customer solutions, professional support and adaptations. Link: [https://opengis.ch](https://opengis.ch/)
 
-{{< figure src="/wp-content/uploads/2021/12/bg.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2021/12/bg.jpg" alt="" caption="" >}}
 
 ## **About the OPENGIS.ch product "QField" application**
 

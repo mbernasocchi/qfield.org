@@ -38,7 +38,7 @@ categories:
   - qgis
 cover:
   alt: qfield32
-  image: /wp-content/uploads/2024/03/qfield32.png
+  image: /blog/wp-content/uploads/2024/03/qfield32.png
 date: "2024-04-04T07:58:11+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=14227
@@ -58,11 +58,11 @@ Focused on stability and usability improvements, most users will find something 
 
 ## **Main highlights**
 
-{{< figure src="/wp-content/uploads/2024/03/qfield32.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/03/qfield32.png" alt="" caption="" >}}
 
 This new release introduces **project-defined tracking sessions, which are automatically activated when the project is loaded**. Defined while setting up and tweaking a project on QGIS, these sessions permit the automated tracking of device positions without taking any action in QField beyond opening the project itself. This liberates field users from remembering to launch a session on app launch and lowers the knowledge required to collect such data. For more details, please read the [relevant QField documentation section](https://docs.qfield.org/how-to/tracking/#configure-a-project-tracking-session).
 
-{{< figure src="/wp-content/uploads/2024/03/session.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/03/session.png" alt="" caption="" >}}
 
 As good as the above-described functionality sounds, it really shines through in cloud projects when paired with two other new featurs.
 
@@ -79,7 +79,7 @@ Other noteworthy feature additions in this release include:
 
 ## **Additional improvements**
 
-{{< figure src="/wp-content/uploads/2024/03/cloud.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/03/cloud.png" alt="" caption="" >}}
 
 The **QFieldCloud user experience continues to be improved**. In this release, we have reworked the visual feedback provided when downloading and synchronizing projects through the addition of a progress bar as well as additional details, such as the overall size of the files being fetched. In addition, a visual indicator has been added to the dashboard and the cloud projects list to alert users to the presence of a newer project file on the cloud for projects locally available on the device.
 

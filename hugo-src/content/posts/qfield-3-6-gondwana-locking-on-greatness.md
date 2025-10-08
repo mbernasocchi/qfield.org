@@ -55,7 +55,7 @@ categories:
   - qgis
 cover:
   alt: splash
-  image: /wp-content/uploads/2025/05/splash.png
+  image: /blog/wp-content/uploads/2025/05/splash.png
 date: "2025-06-03T07:46:38+00:00"
 guid: https://www.opengis.ch/?p=15582
 obfx-footer-scripts: ""
@@ -73,7 +73,7 @@ Building on top of the last release which introduced background tracking, this d
 
 ## Main highlights
 
-{{< figure src="/wp-content/uploads/2025/05/splash.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/05/splash.png" alt="" caption="" >}}
 
 One of the most noticeable improvement in this version is the addition of “map preview rendering”. **QField now renders partial map content immediately beyond the edge of the screen**, offering a much nicer experience when panning around as well as zooming in and out. Long-time QGIS users will recognise the behaviour, and we’re delighted to bring this experience to the field
 
@@ -87,7 +87,7 @@ The improvements did not stop there. Panning and zooming around used to drop use
 
 Moving on to QFieldCloud, this cycle saw tons of improvements. To begin with, **it is now possible to rely on shared datasets across multiple cloud projects**. Known as localised data paths in QGIS, this functionality enables users to reduce storage usage by storing large datasets in QFieldCloud only once, serving multiple cloud projects, and also easing the maintenance of read-only datasets that require regular updates.
 
-{{< figure src="/wp-content/uploads/2025/05/upload%5Fshared%5Fdatasets.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/05/upload%5Fshared%5Fdatasets.webp" alt="" caption="" >}}
 
 _QFieldSync users will see a new checkbox when synchronising their projects, letting them upload shared datasets onto QFieldCloud._
 

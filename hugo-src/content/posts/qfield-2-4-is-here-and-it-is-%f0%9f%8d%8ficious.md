@@ -32,7 +32,7 @@ categories:
   - qfield-highlights
 cover:
   alt: QField 2.4 - Ecstatic Elk
-  image: /wp-content/uploads/2022/10/qfield24.png
+  image: /blog/wp-content/uploads/2022/10/qfield24.png
 date: "2022-10-13T06:19:18+00:00"
 guid: https://www.opengis.ch/?p=13237
 obfx-footer-scripts: ""
@@ -47,7 +47,7 @@ url: "/2022/10/13/qfield-2-4-is-here-and-it-is-\U0001F34Ficious/"
 ---
 Yes, QField for QGIS, the leading fieldwork app, was released on the iOS App Store!
 
-> [![](/wp-content/uploads/2022/10/stores.png)](https://qfield.org/get)
+> [![](/blog/wp-content/uploads/2022/10/stores.png)](https://qfield.org/get)
 >
 > Get It now for [Android, iOS, MacOS, Windows and Linux](https://qfield.org/get)
 
@@ -59,7 +59,7 @@ Following the naming scheme for the 2.X series, we decided to name QField 2.4 Ec
 
 Releasing for iOS is the main news for QField 2.4, but we also added some new features as well as fixed some annoying bugs we had.
 
-{{< figure src="/wp-content/uploads/2022/10/qfield24.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/10/qfield24.png" alt="" caption="" >}}
 
 The new features include atlas-driven print layouts that can now be printed through the main menu’s print to PDF item and dragging files onto an iOS device via USB Cable with iTunes support.
 
@@ -73,7 +73,7 @@ During the last sprint, we greatly improved QField's automated testing framework
 
 Finally, we fixed freehand toggling when using a stylus and ensured the changelog popup doesn't overlap with the OS’ status bar.
 
-{{< figure src="/wp-content/uploads/2022/10/image.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/10/image.png" alt="" caption="" >}}
 
 ## Best of Swiss Apps Nomination
 
@@ -87,7 +87,7 @@ Beginning of November, we'll know more about the outcome of the votes ?
 
 We are extremely happy with how the system is behaving and are even happier with the feedback we are receiving!
 
-{{< figure src="/wp-content/uploads/2022/10/image-3.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/10/image-3.png" alt="" caption="" >}}
 
 As of today, we've implemented all the functionality that we want to have for the GA release. All we are missing is finishing testing the billing and payment system and rolling the drums ?
 

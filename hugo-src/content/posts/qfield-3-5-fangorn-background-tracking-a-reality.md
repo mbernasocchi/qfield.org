@@ -59,7 +59,7 @@ categories:
   - qfield-highlights
 cover:
   alt: splash
-  image: /wp-content/uploads/2025/02/splash.png
+  image: /blog/wp-content/uploads/2025/02/splash.png
 date: "2025-03-04T05:45:00+00:00"
 enclosure: |-
   https://videos.files.wordpress.com/RqiQKWXY/qfield_tracking_demo_green.mp4
@@ -81,7 +81,7 @@ Let’s not bury the lead here: the long-awaited capability to track position wh
 
 ## Main highlights
 
-{{< figure src="/wp-content/uploads/2025/02/splash.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/02/splash.png" alt="" caption="" >}}
 
 As highlighted above, QField 3.5 has unlocked **background position tracking** on the Android platform. This allows users to keep track of their positions even as they put QField in the background to conduct other tasks on their devices. It also means that tracking has become far more battery efficient, as users can lock/suspend their phones and tablets for long periods while QField continues to collect and track positions. On top of it all, this will work out of the book with internal GNSS as well as external high-precision GNSS devices.
 
@@ -93,13 +93,13 @@ It’s important to note that the WebDAV functionality does not provide data syn
 
 Last but not least, QField has gained **support** **for project-configured grid decoration**. When activated, a grid is overlayed on top of the map canvas, which will dynamically render while panning and zooming around. The grid is configured and activated while setting up projects within QGIS itself.
 
-{{< figure src="/wp-content/uploads/2025/02/griddialog.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/02/griddialog.png" alt="" caption="" >}}
 
 Pro tip: this functionality can replace heavy grid datasets when covering a large dataset, something to consider when trying to optimize projects’ storage size. Big thanks to [Oester Messtechnik GmbH](https://messtechnik.ch/) for supporting the implementation of this fourth decoration following the arrival of title, copyright, and image decorations in earlier releases.
 
 Other improvements in this release include **“forward” angle snapping** to digitize perfectly angled polygons, **pinch gesture-driven feature rotation**, and a new print template which unlocks printing of map canvas to PDF even when their projects have no layouts defined.
 
-{{< figure src="/wp-content/uploads/2025/02/alwayspdf.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/02/alwayspdf.png" alt="" caption="" >}}
 
 ## **Plugin-specific improvements**
 
@@ -108,7 +108,7 @@ One of the main additions to QField’s plugin framework is the **capability to 
 
 Other noteworthy improvements include shipping **Quick3D QML modules, which allow authors to develop 3D overlays**, a new API to customize QField’s colour appearance and a new mechanism for plugins to add a configuration button within the plugin manager.
 
-{{< figure src="/wp-content/uploads/2025/02/configuration.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/02/configuration.png" alt="" caption="" >}}
 
 
 Users and plugin authors can expect an exciting year ahead as the QField plugin framework continues to grow with new functionalities and improvements. Watch this space!

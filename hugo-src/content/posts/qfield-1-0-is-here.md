@@ -37,10 +37,10 @@ categories:
   - qgis
 cover:
   alt: QField_1.0
-  image: /wp-content/uploads/2019/03/QField_1.0.png
+  image: /blog/wp-content/uploads/2019/03/QField_1.0.png
 date: "2019-03-28T15:34:38+00:00"
 enclosure: |-
-  https://opengis.ch/wp-content/uploads/2019/03/constraints.mp4
+  https://opengis.ch/blog/wp-content/uploads/2019/03/constraints.mp4
   2708001
   video/mp4
 guid: https://opengis.ch/?p=5337
@@ -104,7 +104,7 @@ Thanks to these enhancements, QField allows reducing the error rate significantl
 
 Simple internal GPS accuracy might be enough for basic projects but cadastral surveying and other high accuracy digitizations have much higher requirements. QFields natively listens to the Android location services so it can take advantage of the best location provided by external devices.  
 
-{{< figure src="https://i0.wp.com/new.opengis.ch/wp-content/uploads/2019/03/gnss.jpg?fit=664%2C374&ssl=1" alt="" caption="" >}}
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/gnss.jpg?fit=664%2C374&ssl=1" alt="" caption="" >}}
 
 ### Generate PDF
 

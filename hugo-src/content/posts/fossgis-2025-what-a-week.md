@@ -54,7 +54,7 @@ categories:
   - qgis
 cover:
   alt: "20250327_160523"
-  image: /wp-content/uploads/2025/03/20250327_160523.jpg
+  image: /blog/wp-content/uploads/2025/03/20250327_160523.jpg
 date: "2025-04-02T05:53:40+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=15365
@@ -91,7 +91,7 @@ _Matthias_ demonstrated how Django can be used to build consumable geodata layer
 _Michael_ showed how QFieldCloud can be extended with Django apps, sharing practical implementations such as automated project generation and integration of remote sensing workflows.  
 👉 [View talk](https://pretalx.com/fossgis2025/talk/NRJPUZ/)
 
-[fossgis25-poster-extending-qfc](/wp-content/uploads/2025/04/fossgis25-poster-extending-qfc.pdf) [Download](/wp-content/uploads/2025/04/fossgis25-poster-extending-qfc.pdf)
+[fossgis25-poster-extending-qfc](/blog/wp-content/uploads/2025/04/fossgis25-poster-extending-qfc.pdf) [Download](/blog/wp-content/uploads/2025/04/fossgis25-poster-extending-qfc.pdf)
 
 **🔌 QField Plugins – Examples and Possibilities**  
 In a lightning talk, _Michael_ introduced useful QField plugins, explained how to install and use them, and explored how they can enhance your mobile GIS workflows.  
@@ -110,7 +110,7 @@ _Matthias_ and _Marco_ hosted a live Q&A session where attendees could ask every
 
 Our QField booth was buzzing with activity all week – from [plugin](https://github.com/topics/qfield-plugin) demos and project showcases to deep dives into [QFieldCloud](https://qfield.cloud) and field mapping workflows. We had great conversations, received valuable feedback, and met many enthusiastic users.
 
-{{< figure src="/wp-content/uploads/2025/03/20250326%5F133746.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/03/20250326%5F133746.jpg" alt="" caption="" >}}
 
 * * *
 
@@ -118,7 +118,7 @@ Our QField booth was buzzing with activity all week – from [plugin](https://gi
 
 We were proud to be **Platinum Sponsors** of FOSSGIS 2025. Supporting open-source events like this is essential for fostering innovation, collaboration, and community-driven growth in the GIS world.
 
-{{< figure src="/wp-content/uploads/2025/03/20250326%5F100314.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/03/20250326%5F100314.jpg" alt="" caption="" >}}
 
 * * *
 
@@ -126,6 +126,6 @@ We were proud to be **Platinum Sponsors** of FOSSGIS 2025. Supporting open-sou
 
 **Thank you** to the organisers, speakers, and everyone who joined us in Münster. We left the event full of ideas, motivation, and appreciation for this community – and we’re already looking forward to the next FOSSGIS!
 
-{{< figure src="/wp-content/uploads/2025/03/20250326%5F090749.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/03/20250326%5F090749.jpg" alt="" caption="" >}}
 
 #QField #QFieldCloud #FOSSGIS2025 #OpenSourceGIS #QGIS #SupportOpenSource
