@@ -40,7 +40,7 @@ jobs:
 
       # Build Hugo into /_site/blog with correct baseURL
       - name: Build Hugo -> _site/blog
-        run: hugo -s hugo-src -d ../_site/blog --baseURL "https://mbernasocchi.github.io/qfield.org/blog/"
+        run: hugo -s hugo-src -d ../_site/blog
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
