@@ -1,4 +1,8 @@
-baseURL: "/blog/"
+baseURL: "/qfield.org/blog/"
+publishDir: "public"
+canonifyURLs: true
+relativeURLs: false
+
 languageCode: en-US
 title: QField.org Blog
 theme: PaperMod
@@ -6,7 +10,7 @@ taxonomies:
   category: categories
   tag: tags
 params:
-  description: OPEN-SOURCE GEONINJAS
+  description: The app that maps the world
   defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
