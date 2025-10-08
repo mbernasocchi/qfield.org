@@ -1,8 +1,5 @@
 baseURL: "https://mbernasocchi.github.io/qfield.org/blog/"
 publishDir: "public"
-canonifyURLs: true
-relativeURLs: false
-
 languageCode: en-US
 title: QField blog
 theme: PaperMod
