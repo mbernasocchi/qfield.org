@@ -1,0 +1,50 @@
+{{ define "main" }}
+<main class="container main">
+  <article class="post-single">
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+      {{ with .Params.description }}<p class="post-description">{{ . }}</p>{{ end }}
+    </header>
+
+    {{ with .Params.hero }}
+      <section class="my-6">
+        {{ with .headline }}<h2>{{ . }}</h2>{{ end }}
+        {{ with $.Params.hero.sub }}<p>{{ . }}</p>{{ end }}
+        {{ with $.Params.hero.ctaText }}
+          <p><a class="button" href="{{ $.Params.hero.ctaUrl }}">{{ . }}</a></p>
+        {{ end }}
+      </section>
+    {{ end }}
+
+    <section class="my-6">
+      {{ .Content }}
+    </section>
+
+    {{ with .Params.pains }}
+      <section class="my-6">
+        <h2>Why this matters</h2>
+        <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+      </section>
+    {{ end }}
+
+    {{ with .Params.proof }}
+      <section class="my-6">
+        <h2>Trusted results</h2>
+        <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+      </section>
+    {{ end }}
+
+    {{ with .Params.faq }}
+      <section class="my-6">
+        <h2>FAQ</h2>
+        {{ range . }}
+          <details class="my-2">
+            <summary>{{ .q }}</summary>
+            <div>{{ .a }}</div>
+          </details>
+        {{ end }}
+      </section>
+    {{ end }}
+  </article>
+</main>
+{{ end }}
