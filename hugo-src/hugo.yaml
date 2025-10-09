@@ -6,7 +6,10 @@ theme: PaperMod
 taxonomies:
   category: categories
   tag: tags
+permalinks:
+  solutions: "/solutions/:slug/"
 params:
+  mainSections: ["posts"]
   description: The app that maps the world
   defaultTheme: light
   keywords: ["QField", "QFieldCloud", "QGIS", "GIS"]
