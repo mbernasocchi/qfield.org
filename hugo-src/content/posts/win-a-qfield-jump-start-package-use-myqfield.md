@@ -31,7 +31,7 @@ categories:
   - qfield
 cover:
   alt: zombie
-  image: wp-content/uploads/2019/04/zombie.jpg
+  image: /blog/wp-content/uploads/2019/04/zombie.jpg
 date: "2019-04-11T07:48:28+00:00"
 guid: https://opengis.ch/?p=5526
 parent_post_id: null
@@ -56,10 +56,10 @@ We are launching the [# **MyQField**](https://twitter.com/hashtag/MyQField?src=h
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="https://opengis.chwp-content/uploads/2019/04/zombie.jpg" alt="Risk assessment" caption="Risk assessment" >}}  
-{{< figure src="https://opengis.chwp-content/uploads/2019/04/20190409%5F193629.jpg" alt="Location tracking" caption="Location tracking" >}}  
-{{< figure src="https://opengis.chwp-content/uploads/2019/03/gnss.jpg" alt="Cadastral surveying" caption="Cadastral surveying" >}}  
-{{< figure src="https://opengis.chwp-content/uploads/2019/04/20190403%5F164731.jpg" alt="Assets management" caption="Assets management" >}}  
+{{< figure src="https://opengis.ch/blog/wp-content/uploads/2019/04/zombie.jpg" alt="Risk assessment" caption="Risk assessment" >}}  
+{{< figure src="https://opengis.ch/blog/wp-content/uploads/2019/04/20190409%5F193629.jpg" alt="Location tracking" caption="Location tracking" >}}  
+{{< figure src="https://opengis.ch/blog/wp-content/uploads/2019/03/gnss.jpg" alt="Cadastral surveying" caption="Cadastral surveying" >}}  
+{{< figure src="https://opengis.ch/blog/wp-content/uploads/2019/04/20190403%5F164731.jpg" alt="Assets management" caption="Assets management" >}}  
 {{< /gallery >}}  
 
 Fine boring prints:

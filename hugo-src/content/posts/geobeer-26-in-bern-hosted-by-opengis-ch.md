@@ -25,7 +25,7 @@ categories:
   - qgis
 cover:
   alt: _MG_3711
-  image: wp-content/uploads/2019/03/MG_3711.jpg
+  image: /blog/wp-content/uploads/2019/03/MG_3711.jpg
 date: "2019-03-25T09:22:43+00:00"
 guid: https://opengis.ch/?p=5295
 parent_post_id: null
@@ -37,16 +37,16 @@ url: /2019/03/25/geobeer-26-in-bern-hosted-by-opengis-ch/
 Last Thursday around half past six in the evening. Striking many Geo-scientist found the way to the Spitalgasse in Bern. The reason was the 26th GeoBeer event taking place at [ImpactHub](https:// https://bern.impacthub.net/).  
 [GeoBeer](https:// https://www.geobeer.ch) is a quarterly meeting of people interested in geography, GIS, cartography and the latest technologies. It's hosted every time by someone else. This time by us, OPENGIS.ch.
 
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3642.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3642.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}
 
 Right after the arriving, the organizers of GeoBeer Switzerland showed us some funny statistics about the GeoBeer participants since the very first GeoBeer event six years ago.   
 Marco Bernasocchi then welcomed everyone and introduced our company. We had three speakers this time. [Marcus Hudritsch](https://www.bfh.ch/ti/de/ueber-das-ti/personen/5b7eblnby2di/) of the [Berner Fachhochschule](https://twitter.com/bfh_hesb) started by presenting the implementation of the visualization of historical buildings, that do not exist anymore in reality. But still, do in virtual reality… No sorry, it's augmented reality. Marcus Hundritsch explained to us clearly the difference between AR and VR and presented some projects they made. [Pascal Bourquin](https:// https://twitter.com/BourquinPascal) changed perspective completely by telling us about his project (La Vie en Jaune) to cover all the hiking trails of Switzerland - he logs every trail done on a [map with photographs](https:// https://map.lavieenjaune.ch/ ). The final speaker was [Daniele Viganò](https://twitter.com/dani_viga) from the [Global Earthquake Model Foundation](https://twitter.com/gem_devs) talking about their challenges of calculating a global model of earthquake hazard, risk and exposure.
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/martin-1.png?fit=664%2C919&ssl=1" alt="Marcus Hundritsch" caption="Marcus Hundritsch" >}}  
-{{< figure src="https://i1.wp.com/new.opengis.chwp-content/uploads/2019/03/daniele-4.png?fit=664%2C919&ssl=1" alt="Daniele Viganò" caption="Daniele Viganò" >}}  
-{{< figure src="https://i1.wp.com/new.opengis.chwp-content/uploads/2019/03/pascale-4.png?fit=664%2C919&ssl=1" alt="Pascale Bourquin" caption="Pascale Bourquin" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/martin-1.png?fit=664%2C919&ssl=1" alt="Marcus Hundritsch" caption="Marcus Hundritsch" >}}  
+{{< figure src="https://i1.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/daniele-4.png?fit=664%2C919&ssl=1" alt="Daniele Viganò" caption="Daniele Viganò" >}}  
+{{< figure src="https://i1.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/pascale-4.png?fit=664%2C919&ssl=1" alt="Pascale Bourquin" caption="Pascale Bourquin" >}}  
 {{< /gallery >}}  
 
 After such interesting talks, everybody's tummy started roaring and the yummy [apéro riche](https://energy-kitchen.ch/) started and of course: The drinking, talking, socializing, networking.
@@ -57,20 +57,20 @@ Thanks for coming, everyone, and see you on the next GeoBeer!
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3634.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/IMG%5F3688.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i2.wp.com/new.opengis.chwp-content/uploads/2019/03/IMG%5F3686.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i2.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3706.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i2.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3700.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i1.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3696.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3692.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3637.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3651.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3639.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i1.wp.com/new.opengis.chwp-content/uploads/2019/03/IMG%5F3689.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/IMG%5F3687.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3708.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3694.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i1.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3701-1.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
-{{< figure src="https://i0.wp.com/new.opengis.chwp-content/uploads/2019/03/MG%5F3699-2.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3634.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/IMG%5F3688.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i2.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/IMG%5F3686.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i2.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3706.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i2.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3700.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i1.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3696.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3692.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3637.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3651.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3639.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i1.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/IMG%5F3689.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/IMG%5F3687.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3708.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3694.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i1.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3701-1.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
+{{< figure src="https://i0.wp.com/new.opengis.ch/blog/wp-content/uploads/2019/03/MG%5F3699-2.jpg?fit=664%2C443&ssl=1" alt="" caption="" >}}  
 {{< /gallery >}}  

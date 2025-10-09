@@ -32,7 +32,7 @@ categories:
   - qfield-highlights
 cover:
   alt: qml_land_trans
-  image: wp-content/uploads/2020/10/qml_land_trans.png
+  image: /blog/wp-content/uploads/2020/10/qml_land_trans.png
 date: "2020-10-20T07:26:08+00:00"
 guid: https://www.opengis.ch/?p=11735
 obfx-footer-scripts: ""
@@ -62,7 +62,7 @@ Let's have a look.
 
 Splitting of a feature has been possible for quite some time. Now the merging of features of multipolygon-layer is possible as well. Select them and merge them - easy like that. The first selected feature gets the new geometry and keeps its attributes.
 
-{{< figure src="wp-content/uploads/2020/09/mergesmall-3.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2020/09/mergesmall-3.png" alt="" caption="" >}}
 
 ## Filters in the Value Relation Widget
 
@@ -70,7 +70,7 @@ The value relation widgets provide an easy selection of a related feature. Often
 
 Using filters in the value relation drop-down can increase the efficiency in selecting the correct value. It can be configured by expressions in QGIS, so it's possible to have the content of the drop down depend on the values entered previously in other fields.
 
-{{< figure src="wp-content/uploads/2020/10/filtervaluerelation%5Ftrans.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2020/10/filtervaluerelation%5Ftrans.png" alt="" caption="" >}}
 
 In the screenshot above there is a Map Value Widget with "forest" and "meadow" as values. On selecting "forest", only the trees appear in the Field "Plant Species". On selecting "meadow" there would be listed flowers instead.
 
@@ -92,7 +92,7 @@ Do you need help setting up complex forms? Don't hesitate to [get in touch with 
 
 {{< gallery cols="2" >}}  
 {{< figure src="https://user-images.githubusercontent.com/28384354/91524902-ad00bd00-e900-11ea-86e2-c44af84bb04a.png" alt="qml" caption="qml" >}}  
-{{< figure src="wp-content/uploads/2020/09/html-1.png" alt="" caption="" >}}  
+{{< figure src="/blog/wp-content/uploads/2020/09/html-1.png" alt="" caption="" >}}  
 {{< /gallery >}}  
 
 ##   

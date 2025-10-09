@@ -29,7 +29,7 @@ categories:
   - qfield-highlights
 cover:
   alt: 224213255-e51e619a-2505-49dc-a03d-088bfa2530e4
-  image: wp-content/uploads/2023/04/224213255-e51e619a-2505-49dc-a03d-088bfa2530e4.png
+  image: /blog/wp-content/uploads/2023/04/224213255-e51e619a-2505-49dc-a03d-088bfa2530e4.png
 date: "2023-04-04T04:44:00+00:00"
 guid: https://www.opengis.ch/?p=13686
 obfx-footer-scripts: ""
@@ -46,7 +46,7 @@ A brand new version of QField has been released, **packed with features** that w
 
 ## New recording capabilities
 
-{{< figure src="wp-content/uploads/2023/04/224213255-e51e619a-2505-49dc-a03d-088bfa2530e4.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2023/04/224213255-e51e619a-2505-49dc-a03d-088bfa2530e4.png" alt="" caption="" >}}
 
 The highlight of QField 2.7 is the **new audio and video recording capability straight from the feature form**. In addition to preexisting still photo capture, this functionality allows for video motion and audio clips to be added as attachments to feature attributes.
 

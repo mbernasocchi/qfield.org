@@ -50,7 +50,7 @@ categories:
   - qgis
 cover:
   alt: qfield_love_09
-  image: wp-content/uploads/2020/02/qfield_love_09.png
+  image: /blog/wp-content/uploads/2020/02/qfield_love_09.png
 date: "2020-03-03T06:00:13+00:00"
 guid: https://www.opengis.ch/?p=9519
 parent_post_id: null
@@ -83,7 +83,7 @@ Besides lots of clean-up and polishing, QField received two major improvements, 
 
 QField is all about efficiency. While favourites folders in the file selector already give a great productivity boost, very often we work with the same 3-4 projects. This is why we redesigned the welcome screen to list the last five project used. And if you look carefully you might get a hint of what will be coming soon...
 
-{{< figure src="wp-content/uploads/2020/02/WhatsApp-Image-2020-02-25-at-20.57.35.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-25-at-20.57.35.jpeg" alt="" caption="" >}}
 
 ### Portrait mode
 
@@ -91,9 +91,9 @@ QField now flawlessly works in portrait mode. We heard you say you needed a comf
 
 
 {{< gallery cols="3" >}}  
-{{< figure src="wp-content/uploads/2020/02/Screenshot%5F20200227-130403%5FQField.jpg" alt="Optimised forms" caption="Optimised forms" >}}  
-{{< figure src="wp-content/uploads/2020/02/Screenshot%5F20200227-125335%5FQField.jpg" alt="Buttons align at the bottom" caption="Buttons align at the bottom" >}}  
-{{< figure src="wp-content/uploads/2020/02/Screenshot%5F20200227-131446%5FQField.jpg" alt="Roomy legend" caption="Roomy legend" >}}  
+{{< figure src="/blog/wp-content/uploads/2020/02/Screenshot%5F20200227-130403%5FQField.jpg" alt="Optimised forms" caption="Optimised forms" >}}  
+{{< figure src="/blog/wp-content/uploads/2020/02/Screenshot%5F20200227-125335%5FQField.jpg" alt="Buttons align at the bottom" caption="Buttons align at the bottom" >}}  
+{{< figure src="/blog/wp-content/uploads/2020/02/Screenshot%5F20200227-131446%5FQField.jpg" alt="Roomy legend" caption="Roomy legend" >}}  
 {{< /gallery >}}  
 
 ## New features

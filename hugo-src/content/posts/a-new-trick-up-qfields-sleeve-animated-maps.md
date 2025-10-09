@@ -37,7 +37,7 @@ categories:
   - video
 cover:
   alt: Peek-2022-07-16-12-43
-  image: wp-content/uploads/2022/07/Peek-2022-07-16-12-43.gif
+  image: /blog/wp-content/uploads/2022/07/Peek-2022-07-16-12-43.gif
 date: "2022-08-16T04:58:00+00:00"
 guid: https://www.opengis.ch/?p=13017
 obfx-footer-scripts: ""
@@ -54,7 +54,7 @@ url: /2022/08/16/a-new-trick-up-qfields-sleeve-animated-maps/
 
 The example below demonstrates a scenario where animated raster markers are used to highlight active fires within the visible map extent. Notice how the subtle fire animation helps draw viewers’ eyes to those important markers.
 
-{{< figure src="wp-content/uploads/2022/07/Peek-2022-07-16-12-43.gif" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/07/Peek-2022-07-16-12-43.gif" alt="" caption="" >}}
 
 [_Animated raster markers_ is a new symbol layer type in QGIS 3.26](https://www.qgis.org/en/site/forusers/visualchangelog326/index.html#feature-new-animated-marker-symbol-type) that was developed by [Nyall Dawson](https://north-road.com/). Supported image formats include GIF, WEBP, and APNG.
 

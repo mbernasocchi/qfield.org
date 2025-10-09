@@ -34,7 +34,7 @@ categories:
   - qfield-highlights
 cover:
   alt: QField Werbevideo bei der Awardvergabe_c_opengis.ch
-  image: wp-content/uploads/2022/11/QField-Werbevideo-bei-der-Awardvergabe_c_opengis.ch_.jpg
+  image: /blog/wp-content/uploads/2022/11/QField-Werbevideo-bei-der-Awardvergabe_c_opengis.ch_.jpg
 date: "2022-11-03T13:02:57+00:00"
 guid: https://www.opengis.ch/?p=13286
 obfx-footer-scripts: ""
@@ -49,15 +49,15 @@ url: /2022/11/03/best-of-swiss-enterprise-app-award-for-qfield/
 ---
 **What a night it was. The "Best of Swiss Apps Awards" took place in Zurich yesterday, November 2, 2022. We were also nominated with [QField](https://qfield.org). And in the enterprise category, the app was so convincing, that it was awarded the highest possible price. So it brought the award "Best of Swiss Enterprise App" home to Graubünden. And as cherry on the cake: QField was also nominated as finalist in the UX/UI category!**
 
-{{< figure src="wp-content/uploads/2022/11/QField%5FApp-Medienmitteilung%5FAppAward2022.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/QField%5FApp-Medienmitteilung%5FAppAward2022.jpg" alt="" caption="" >}}
 
 We are extremely proud and happy about the received award. And even more when we look at the contendants that won in the other categories. We're talking companies like SBB, Swiss Life, Switzerland Tourism and, yes, Rivella ?.
 
 You can check out all results at [https://www.bestofswissapps.ch/bosa/hall-of-fame](https://www.bestofswissapps.ch/bosa/hall-of-fame)
 
-{{< figure src="wp-content/uploads/2022/11/Screenshot-from-2022-11-03-13-00-30.png" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/Screenshot-from-2022-11-03-13-00-30.png" alt="" caption="" >}}
 
-If you are interested in more details, we released a press release [in German](wp-content/uploads/2022/11/20221103_Medienmitteilung_Best-of-Swiss-App-Awards-QField.pdf) and in English.
+If you are interested in more details, we released a press release [in German](/blog/wp-content/uploads/2022/11/20221103_Medienmitteilung_Best-of-Swiss-App-Awards-QField.pdf) and in English.
 
 QField is an open source mobile app. The app is designed to use and edit geographically referenced data. In urban environments with 5G connectivity, but also with offline data. The mobile GIS app combines minimal design for simplicity with sophisticated technology for a versatile range of uses to bring data conveniently from the field to the offices. The app was started in 2011 and received a major rebuild in 2022.
 
@@ -73,15 +73,15 @@ And here some moments of the award night. It was a blast!
 
 
 {{< gallery cols="1" >}}  
-{{< figure src="wp-content/uploads/2022/11/Michael-Quade-Juryprasident-gratuliert-zur-Gold%5Fc%5Fbestofswissapps.ch%5F.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/Michael-Quade-Juryprasident-gratuliert-zur-Gold%5Fc%5Fbestofswissapps.ch%5F.jpg" alt="" caption="" >}}
 
-{{< figure src="wp-content/uploads/2022/11/Best-of-swiss-App-Award-2022%5Fc%5Fbestofswissapps.ch%5F.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/Best-of-swiss-App-Award-2022%5Fc%5Fbestofswissapps.ch%5F.jpg" alt="" caption="" >}}
 
-{{< figure src="wp-content/uploads/2022/11/QField-Werbevideo-bei-der-Awardvergabe%5Fc%5Fopengis.ch%5F-1.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/QField-Werbevideo-bei-der-Awardvergabe%5Fc%5Fopengis.ch%5F-1.jpg" alt="" caption="" >}}
 
-{{< figure src="wp-content/uploads/2022/11/winner%5Fselfie%5Fc%5Fopengis.ch%5F.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/winner%5Fselfie%5Fc%5Fopengis.ch%5F.jpg" alt="" caption="" >}}
 
-{{< figure src="wp-content/uploads/2022/11/Marco-Bernasocchi-und-Anna-Randegger-von-OPENGI.ch%5Fc%5Fbestswissapps.ch%5F.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/11/Marco-Bernasocchi-und-Anna-Randegger-von-OPENGI.ch%5Fc%5Fbestswissapps.ch%5F.jpg" alt="" caption="" >}}
 
-{{< figure src="wp-content/uploads/2022/11/qfield%5Flaudatio-c-opengis.ch%5F.jpg" alt="" caption="" >}}  
+{{< figure src="/blog/wp-content/uploads/2022/11/qfield%5Flaudatio-c-opengis.ch%5F.jpg" alt="" caption="" >}}  
 {{< /gallery >}}  

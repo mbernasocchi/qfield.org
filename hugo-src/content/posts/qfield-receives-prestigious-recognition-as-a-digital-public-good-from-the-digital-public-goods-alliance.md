@@ -20,7 +20,7 @@ categories:
   - qfield
 cover:
   alt: qfield-sdg-text
-  image: wp-content/uploads/2024/06/qfield-sdg-text.png
+  image: /blog/wp-content/uploads/2024/06/qfield-sdg-text.png
 date: "2024-06-06T06:28:47+00:00"
 guid: https://www.opengis.ch/?p=14420
 obfx-footer-scripts: ""
@@ -40,13 +40,13 @@ url: /2024/06/06/qfield-receives-prestigious-recognition-as-a-digital-public-goo
 
 QField stands out as the leading fieldwork app, designed to bring the power of geospatial data collection and management to the fingertips of users worldwide. Developed with a user-centric approach, QField allows seamless integration with [QGIS](https://qgis.org), providing a robust and intuitive platform for data collection, visualization, and analysis directly in the field. This recognition as a Digital Public Good underscores QField’s vital role in advancing digital solutions for sustainable development.
 
-{{< figure src="wp-content/uploads/2024/06/image.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/06/image.jpeg" alt="" caption="" >}}
 
 ### Accessible for Everyone
 
 One of QField’s key strengths is its ease of use, making it accessible not only to professionals but also to students, researchers, and community members. Its intuitive interface ensures that users with varying levels of technical expertise can efficiently collect and manage geospatial data. This inclusivity promotes wider adoption and engagement, enhancing the app's impact across different sectors and communities.
 
-{{< figure src="wp-content/uploads/2024/06/image-1.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/06/image-1.jpg" alt="" caption="" >}}
 
 ### Exemplary Open Source Project
 
@@ -63,13 +63,13 @@ QField's capabilities extend beyond just one aspect of the United Nations Sustai
 - **SDG 15: Life on Land**: QField aids in biodiversity assessments and conservation efforts, promoting the sustainable use of terrestrial ecosystems.
 - **SDG 16: Peace, Justice, and Strong Institutions**: Through its reliable and transparent data management capabilities, QField supports the development of strong institutions and governance systems.
 
-{{< figure src="wp-content/uploads/2024/06/image-2.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/06/image-2.jpeg" alt="" caption="" >}}
 
 ### A Future of Innovation and Sustainability
 
 As we celebrate this recognition, we remain committed to pushing the boundaries of what is possible in fieldwork technology. QField will continue to evolve, driven by the needs of its global user base and the imperative to support sustainable development. We invite all stakeholders to join us on this journey towards a more sustainable and equitable future.
 
-{{< figure src="wp-content/uploads/2024/06/image-3.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/06/image-3.jpeg" alt="" caption="" >}}
 
 For more information about QField and its contributions to the SDGs, please visit [https://qfield.org/sdgs.html](https://qfield.org/sdgs.html)
 
@@ -89,7 +89,7 @@ CH-7031 Laax
 
 [QField](https://qfield.org/) is an open-source fieldwork app that integrates seamlessly with #QGIS, providing a powerful platform for data collection, visualization, and analysis. Designed for professionals across various sectors, QField empowers users to efficiently manage and analyze geospatial data in the field, contributing to sustainable development and innovation worldwide. Link: [https://qfield.org](https://qfield.org/)
 
-{{< figure src="wp-content/uploads/2024/06/image.jpg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/06/image.jpg" alt="" caption="" >}}
 
 ### About the OPENGIS.ch service QFieldCloud
 
@@ -99,7 +99,7 @@ CH-7031 Laax
 
 [OPENGIS.ch](https://www.linkedin.com/company/opengisch/) GmbH is a Swiss software development company based in Laax. [OPENGIS.ch](http://opengis.ch/) employs 19 people and works mainly in the field of spatial software development, geodata infrastructure deployments and professional support. Personalised open-source GIS solutions are often planned and developed as desktop or mobile applications. [OPENGIS.ch](http://opengis.ch/) finances itself through tailor-made customer solutions, professional support and adaptations. Link: [https://opengis.ch](https://opengis.ch/)
 
-{{< figure src="wp-content/uploads/2024/06/image-1.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2024/06/image-1.jpeg" alt="" caption="" >}}
 
 ### About Digital Public Goods Alliance (DPGA)
 

@@ -31,7 +31,7 @@ categories:
   - uncategorised
 cover:
   alt: Woman traveler explorer with backpack hiking to the top of the mountain. Adventure weekend.
-  image: wp-content/uploads/2023/06/gps-tracking.jpeg
+  image: /blog/wp-content/uploads/2023/06/gps-tracking.jpeg
 date: "2023-06-29T09:54:42+00:00"
 guid: https://www.opengis.ch/?p=13811
 obfx-footer-scripts: ""
@@ -52,7 +52,7 @@ We are now calling for the community to help further better QField and unlock an
 
 [Pledge now](#pledge-now)
 
-{{< figure src="wp-content/uploads/2023/06/gps-tracking.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2023/06/gps-tracking.jpeg" alt="" caption="" >}}
 
 ## Main goal: background location tracking on Android – 25'000€
 

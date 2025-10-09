@@ -55,7 +55,7 @@ categories:
   - qfield
 cover:
   alt: splash
-  image: wp-content/uploads/2025/07/splash.webp
+  image: /blog/wp-content/uploads/2025/07/splash.webp
 date: "2025-08-04T08:41:52+00:00"
 footnotes: ""
 guid: https://www.opengis.ch/?p=15903
@@ -73,13 +73,13 @@ For QField 3.7, we opted for a shorter development cycle that focused on polishi
 
 ## Main highlights
 
-{{< figure src="wp-content/uploads/2025/07/splash.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/07/splash.webp" alt="" caption="" >}}
 
 One of the most interesting new functionalities from this development cycle has been the ability to stamp details on photos taken by QField’s in-app camera. A basic version of this has been supported for a while now; this new version offers flexible customisation of details stamping onto photos, including changing the font size, colour, and horizontal position, as well as providing users with the ability to completely change the details via expression-driven templates and add image overlays onto the photo.
 
 The custom details stamping configuration lives within project files, allowing for individual projects to drive styling and details. The configuration interface is provided by QFieldSync and can be found in the project properties dialog by switching to the QField panel when setting up projects in QGIS:
 
-{{< figure src="wp-content/uploads/2025/07/image%5Fstamping.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/07/image%5Fstamping.webp" alt="" caption="" >}}
 
 The other significant addition in this release is **the new plugin manager’s Available Plugins tab, which offers a curated list of plugins** that can easily be installed with a single tap. The list makes it much easier to discover plugin-delivered functionalities such as online routing, geocoding searches, and much more.
 
@@ -87,7 +87,7 @@ The plugin manager can also **alert users of available updates for their install
 
 Long-time users of QField are probably aware of a nifty feature that allowed individual project layers to be locked, and for that lock to be driven by a data-defined property expression. For this new version, we’ve supercharged the layer lock functionality by breaking it down into four distinct vector layer permissions that can be disabled: i) feature addition, ii) attribute editing, iii) geometry editing, and iv) feature deletion. These permissions can be disabled by activating a checkbox or conditionality turned on via a data-defined property expression.
 
-{{< figure src="wp-content/uploads/2025/07/layer%5Fpermissions.webp" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2025/07/layer%5Fpermissions.webp" alt="" caption="" >}}
 
 The disabling of permissions using a data-defined property expression allows for interesting scenarios when paired with QField-driven expression context variables such as the user name of a logged-in QFieldCloud account (@cloud\_username), GNSS positioning (@gnss\_coordinate) and more. Users can easily restrict permissions based on the user interacting with a cloud project, or form advanced geofencing-like rules based on location, time of the day, etc. For more details on available variables, [read this page on QField's growing documentation site](https://docs.qfield.org/reference/expression_variables/).
 

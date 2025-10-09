@@ -30,7 +30,7 @@ categories:
   - qgis
 cover:
   alt: WhatsApp-Image-2022-08-22-at-13.40.29
-  image: wp-content/uploads/2022/09/WhatsApp-Image-2022-08-22-at-13.40.29.jpeg
+  image: /blog/wp-content/uploads/2022/09/WhatsApp-Image-2022-08-22-at-13.40.29.jpeg
 date: "2022-09-08T05:00:00+00:00"
 guid: https://www.opengis.ch/?p=13134
 obfx-footer-scripts: ""
@@ -70,6 +70,6 @@ There were many interesting and sometimes spontaneous presentations which always
 
 On Saturday evening a bus showed up at the campus and took us on a trip up to the hills. After quite a long ride we arrived at a restaurant high up with mind-blowing view of the city. I forgot how many rounds of Tuscan food were served, but it was delicious throughout. An amazing evening with fruitful conversations and many laughs.
 
-{{< figure src="wp-content/uploads/2022/09/WhatsApp-Image-2022-08-22-at-13.40.29.jpeg" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/09/WhatsApp-Image-2022-08-22-at-13.40.29.jpeg" alt="" caption="" >}}
 
 The weather was nice and hot, the beers cold, the Tuscan food delicious and the contributors were not only popular Github avatars but really nice people. **Thank you QGIS.**

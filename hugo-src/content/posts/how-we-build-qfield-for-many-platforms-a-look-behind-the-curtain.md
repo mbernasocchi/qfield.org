@@ -26,7 +26,7 @@ categories:
   - qfield
 cover:
   alt: rocket
-  image: wp-content/uploads/2022/09/rocket.jpg
+  image: /blog/wp-content/uploads/2022/09/rocket.jpg
 date: "2022-09-20T05:48:00+00:00"
 guid: https://www.opengis.ch/?p=13166
 obfx-footer-scripts: ""
@@ -55,7 +55,7 @@ What's left to do than just enable it for Android, and all our problems are sudd
 
 Soon after we also wanted to try building for **iOS with vcpkg**, which after a few attempts also was successful, and even managed to resolve some weird crashes and other issues we had experienced with the old buildchain.
 
-{{< figure src="wp-content/uploads/2022/09/Peek-2022-09-19-17-01.gif" alt="" caption="" >}}
+{{< figure src="/blog/wp-content/uploads/2022/09/Peek-2022-09-19-17-01.gif" alt="" caption="" >}}
 
 The main benefit was that we could upgrade the QGIS base libraries in one single place for every platform, in an isolated branch without playing the Jenga game on each upgrade.
 
