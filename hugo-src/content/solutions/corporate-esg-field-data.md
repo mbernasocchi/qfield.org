@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Keep one source of truth from field to ESG reports.
-
-*** End Patch

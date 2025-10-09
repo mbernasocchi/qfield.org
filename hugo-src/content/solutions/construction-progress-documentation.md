@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Prepare projects in QGIS and maintain a single source of truth via QFieldCloud.
-
-*** End Patch

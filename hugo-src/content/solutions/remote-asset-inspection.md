@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Prepare projects in QGIS and coordinate teams with QFieldCloud.
-
-*** End Patch

@@ -44,5 +44,3 @@ Map pipes, valves, hydrants, manholes, and treatment facilities. Capture photos 
 
 ## Integrated with QGIS and QFieldCloud
 Design forms in QGIS, then sync and collaborate with QFieldCloud to keep asset data current.
-
-*** End Patch

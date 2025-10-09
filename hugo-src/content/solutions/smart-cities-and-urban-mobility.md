@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Ensure teams use the same data and styles, with sync and review workflows built in.
-
-*** End Patch

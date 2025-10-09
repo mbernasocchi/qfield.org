@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Prepare layers and forms in QGIS and keep teams aligned with QFieldCloud sync.
-
-*** End Patch

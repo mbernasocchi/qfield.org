@@ -41,5 +41,3 @@ faq:
 
 ## End-to-end with QGIS and QFieldCloud
 Prepare, collect, and sync data across teams with an auditable trail of changes.
-
-*** End Patch

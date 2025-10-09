@@ -44,5 +44,3 @@ Inventory lines, poles, transformers, and substations. Capture conditions and de
 
 ## One workflow from field to GIS
 Prepare in QGIS, collect in QField, and sync through QFieldCloud for a clean audit trail.
-
-*** End Patch

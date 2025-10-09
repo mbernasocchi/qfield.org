@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Prepare projects in QGIS and keep teams synced via QFieldCloud for efficient reviews.
-
-*** End Patch

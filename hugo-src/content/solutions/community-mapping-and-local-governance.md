@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Design projects in QGIS and collaborate securely via QFieldCloud.
-
-*** End Patch

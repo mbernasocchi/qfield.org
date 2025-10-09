@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Prepare layers and forms in QGIS and sync via QFieldCloud to collaborate across teams.
-
-*** End Patch

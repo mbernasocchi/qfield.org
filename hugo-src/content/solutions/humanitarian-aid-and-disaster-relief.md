@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Share projects with agencies securely and keep everyone aligned.
-
-*** End Patch

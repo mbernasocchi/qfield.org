@@ -38,5 +38,3 @@ faq:
 - Plan sampling grids and record field logs  
 - Capture depths, horizons, and conditions  
 - Attach photos and sync to QFieldCloud
-
-*** End Patch

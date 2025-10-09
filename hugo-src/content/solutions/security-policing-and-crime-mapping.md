@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Maintain a single source of truth from field to analysis and reporting.
-
-*** End Patch

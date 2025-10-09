@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Share projects and manage permissions in QFieldCloud. Export to standard formats for analysis.
-
-*** End Patch

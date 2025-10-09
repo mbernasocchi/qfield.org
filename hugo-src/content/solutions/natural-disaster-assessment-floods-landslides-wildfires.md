@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Coordinate across teams with shared projects, permissions, and change tracking.
-
-*** End Patch

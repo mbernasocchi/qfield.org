@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Design data models in QGIS and keep field and office aligned with QFieldCloud.
-
-*** End Patch

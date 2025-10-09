@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Build projects in QGIS and keep cohorts aligned via QFieldCloud.
-
-*** End Patch

@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Build your model in QGIS and collaborate via QFieldCloud to keep operations smooth.
-
-*** End Patch

@@ -38,5 +38,3 @@ faq:
 - Site mapping and variable recording  
 - Photo documentation and annotations  
 - Sync to QFieldCloud for collaboration
-
-*** End Patch

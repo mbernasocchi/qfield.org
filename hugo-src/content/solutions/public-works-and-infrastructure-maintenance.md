@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Build your data model in QGIS and collaborate via QFieldCloud to keep records current.
-
-*** End Patch

@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Design forms and symbology in QGIS, then sync and review via QFieldCloud.
-
-*** End Patch

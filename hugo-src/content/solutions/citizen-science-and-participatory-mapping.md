@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Set up data models in QGIS and coordinate contributors via QFieldCloud.
-
-*** End Patch

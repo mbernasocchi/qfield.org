@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Prepare targets in QGIS and collaborate with teams via QFieldCloud.
-
-*** End Patch

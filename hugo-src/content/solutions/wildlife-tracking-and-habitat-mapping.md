@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Prepare symbology and forms in QGIS, then sync projects with QFieldCloud to collaborate across teams.
-
-*** End Patch

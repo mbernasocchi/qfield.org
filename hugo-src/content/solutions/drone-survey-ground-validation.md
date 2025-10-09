@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Design projects in QGIS and keep field and office aligned with QFieldCloud.
-
-*** End Patch

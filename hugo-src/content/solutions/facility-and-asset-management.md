@@ -44,5 +44,3 @@ Collect accurate locations, attributes, and photos. Use domains and constraints 
 
 ## Integrated with QGIS and QFieldCloud
 Build your model in QGIS, then sync projects with QFieldCloud for smooth collaboration.
-
-*** End Patch

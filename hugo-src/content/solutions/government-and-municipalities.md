@@ -44,5 +44,3 @@ Inventory public assets, record inspections, and manage service requests with a 
 
 ## Integrates with QGIS and QFieldCloud
 Prepare layers, forms, and symbology in QGIS. Keep teams in sync and on record using QFieldCloud.
-
-*** End Patch

@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Design forms in QGIS and sync via QFieldCloud to keep registry data accurate and traceable.
-
-*** End Patch

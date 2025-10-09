@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Keep planners and inspectors aligned with a single source of truth, online or offline.
-
-*** End Patch

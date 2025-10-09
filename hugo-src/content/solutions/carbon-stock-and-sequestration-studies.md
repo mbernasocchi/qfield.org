@@ -38,5 +38,3 @@ faq:
 - Biomass plot mapping and measurements  
 - QA with photo evidence  
 - Sync and collaborate with QFieldCloud
-
-*** End Patch

@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Prepare forms and styles in QGIS. Collaborate and sync changes through QFieldCloud.
-
-*** End Patch

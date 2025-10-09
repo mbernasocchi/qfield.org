@@ -44,5 +44,3 @@ Collect observations, pests, nutrient deficiencies, and treatment records. Use s
 
 ## Integrated with QGIS and QFieldCloud
 Build data models in QGIS and collaborate with QFieldCloud for timely decisions.
-
-*** End Patch

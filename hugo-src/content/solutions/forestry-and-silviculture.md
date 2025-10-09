@@ -41,5 +41,3 @@ faq:
 
 ## One workflow with QGIS and QFieldCloud
 Prepare in QGIS, collect in QField, and sync with QFieldCloud for conflict-safe merges.
-
-*** End Patch

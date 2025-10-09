@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 One workflow from office planning to field execution and back, without data loss.
-
-*** End Patch

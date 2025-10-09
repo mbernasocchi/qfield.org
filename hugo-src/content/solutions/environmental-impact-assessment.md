@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Prepare symbology, rules, and forms in QGIS. Sync and collaborate with QFieldCloud for timely reviews.
-
-*** End Patch

@@ -41,5 +41,3 @@ faq:
 
 ## Works with QGIS and QFieldCloud
 Keep risk data current and collaborative with a unified workflow.
-
-*** End Patch

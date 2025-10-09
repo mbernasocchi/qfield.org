@@ -41,5 +41,3 @@ faq:
 
 ## Integrated with QGIS and QFieldCloud
 Prepare data models in QGIS and collaborate securely with QFieldCloud.
-
-*** End Patch
