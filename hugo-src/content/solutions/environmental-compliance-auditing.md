@@ -1,7 +1,7 @@
 ---
 title: "QField for Environmental Compliance Auditing"
 slug: "environmental-compliance-auditing"
-type: "page"
+type: "solutions"
 description: "Standardize environmental audits with offline mobile GIS, smart forms, and photo evidence."
 draft: false
 

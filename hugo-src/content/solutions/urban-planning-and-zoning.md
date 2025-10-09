@@ -1,7 +1,7 @@
 ---
 title: "QField for Urban Planning and Zoning"
 slug: "urban-planning-and-zoning"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for site surveys, zoning enforcement, and plan monitoring in cities and towns."
 draft: false
 

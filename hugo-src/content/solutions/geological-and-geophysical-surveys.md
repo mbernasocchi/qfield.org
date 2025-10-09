@@ -1,7 +1,7 @@
 ---
 title: "QField for Geological and Geophysical Surveys"
 slug: "geological-and-geophysical-surveys"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for geology mapping, sampling, and geophysical survey support—offline and precise."
 draft: false
 

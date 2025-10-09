@@ -1,7 +1,7 @@
 ---
 title: "QField for Climate Change Research"
 slug: "climate-change-research"
-type: "page"
+type: "solutions"
 description: "Field data collection for climate variables, impacts, and monitoring sites using mobile GIS."
 draft: false
 

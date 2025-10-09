@@ -1,7 +1,7 @@
 ---
 title: "QField for Power Transmission and Distribution"
 slug: "power-transmission-and-distribution"
-type: "page"
+type: "solutions"
 description: "Grid asset mapping, inspections, and as-built data capture with mobile GIS and QGIS."
 draft: false
 

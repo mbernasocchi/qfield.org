@@ -1,7 +1,7 @@
 ---
 title: "QField for Carbon Stock and Sequestration Studies"
 slug: "carbon-stock-and-sequestration-studies"
-type: "page"
+type: "solutions"
 description: "Field data collection for biomass plots, carbon stock measurements, and sequestration monitoring."
 draft: false
 

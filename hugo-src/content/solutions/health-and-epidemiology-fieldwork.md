@@ -1,7 +1,7 @@
 ---
 title: "QField for Health and Epidemiology Fieldwork"
 slug: "health-and-epidemiology-fieldwork"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for health surveys, epidemiology mapping, and facility assessments with offline support."
 draft: false
 

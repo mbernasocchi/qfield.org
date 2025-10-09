@@ -1,7 +1,7 @@
 ---
 title: "QField for Mining and Quarrying"
 slug: "mining-and-quarrying"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for exploration mapping, operations, and environmental monitoring in mines and quarries."
 draft: false
 

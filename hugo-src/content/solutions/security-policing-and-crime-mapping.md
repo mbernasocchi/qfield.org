@@ -1,7 +1,7 @@
 ---
 title: "QField for Security, Policing, and Crime Mapping"
 slug: "security-policing-and-crime-mapping"
-type: "page"
+type: "solutions"
 description: "Field mapping for incidents, patrols, and community safety with mobile GIS and offline capability."
 draft: false
 

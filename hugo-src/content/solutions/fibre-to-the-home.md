@@ -1,7 +1,7 @@
 ---
 title: "QField for Fibre to the Home"
 slug: "fibre-to-the-home"
-type: "page"
+type: "solutions"
 description: "Plan, construct, and document FTTH networks with geospatial accuracy."
 draft: false
 

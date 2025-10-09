@@ -1,7 +1,7 @@
 ---
 title: "QField for Drone Survey Ground Validation"
 slug: "drone-survey-ground-validation"
-type: "page"
+type: "solutions"
 description: "Collect ground truth and checkpoints for drone surveys using mobile GIS and high-accuracy GNSS."
 draft: false
 

@@ -1,7 +1,7 @@
 ---
 title: "QField for Corporate ESG Field Data"
 slug: "corporate-esg-field-data"
-type: "page"
+type: "solutions"
 description: "Collect ESG field data for audits, reporting, and sustainability programs using mobile GIS."
 draft: false
 

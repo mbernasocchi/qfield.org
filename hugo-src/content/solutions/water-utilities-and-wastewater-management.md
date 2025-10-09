@@ -1,7 +1,7 @@
 ---
 title: "QField for Water Utilities and Wastewater Management"
 slug: "water-utilities-and-wastewater-management"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for pipe networks, hydrants, valves, manholes, and treatment inspections."
 draft: false
 

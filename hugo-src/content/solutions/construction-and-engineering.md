@@ -1,7 +1,7 @@
 ---
 title: "QField for Construction and Engineering"
 slug: "construction-and-engineering"
-type: "page"
+type: "solutions"
 description: "Mobile GIS and QGIS fieldwork for site surveys, as-builts, and QA in construction projects."
 draft: false
 

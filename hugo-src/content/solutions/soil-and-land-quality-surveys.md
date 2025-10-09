@@ -1,7 +1,7 @@
 ---
 title: "QField for Soil and Land Quality Surveys"
 slug: "soil-and-land-quality-surveys"
-type: "page"
+type: "solutions"
 description: "Standardize soil sampling and land quality assessments with offline mobile GIS and QGIS forms."
 draft: false
 

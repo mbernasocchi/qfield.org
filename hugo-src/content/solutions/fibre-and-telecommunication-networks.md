@@ -1,7 +1,7 @@
 ---
 title: "QField for Fibre and Telecommunication Networks"
 slug: "fibre-and-telecommunication-networks"
-type: "page"
+type: "solutions"
 description: "Plan, build, and document telecom networks with accurate field data and smooth handover."
 draft: false
 

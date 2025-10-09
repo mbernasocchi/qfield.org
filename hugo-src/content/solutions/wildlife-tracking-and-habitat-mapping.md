@@ -1,7 +1,7 @@
 ---
 title: "QField for Wildlife Tracking and Habitat Mapping"
 slug: "wildlife-tracking-and-habitat-mapping"
-type: "page"
+type: "solutions"
 description: "Field data collection for wildlife observations, habitats, and tracking studies with mobile GIS."
 draft: false
 

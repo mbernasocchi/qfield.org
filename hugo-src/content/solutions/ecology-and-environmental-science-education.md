@@ -1,7 +1,7 @@
 ---
 title: "QField for Ecology and Environmental Science Education"
 slug: "ecology-and-environmental-science-education"
-type: "page"
+type: "solutions"
 description: "Teach field ecology and environmental science using a friendly mobile GIS aligned with QGIS."
 draft: false
 

@@ -1,7 +1,7 @@
 ---
 title: "QField for Community Mapping and Local Governance"
 slug: "community-mapping-and-local-governance"
-type: "page"
+type: "solutions"
 description: "Support local governance with community-led mapping and reliable field data collection."
 draft: false
 

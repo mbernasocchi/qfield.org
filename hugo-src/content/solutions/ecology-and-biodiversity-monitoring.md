@@ -1,7 +1,7 @@
 ---
 title: "QField for Ecology and Biodiversity Monitoring"
 slug: "ecology-and-biodiversity-monitoring"
-type: "page"
+type: "solutions"
 description: "Species observations, habitats, and monitoring plots with offline mobile GIS and QGIS."
 draft: false
 

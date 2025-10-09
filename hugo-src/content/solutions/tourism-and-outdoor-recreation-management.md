@@ -1,7 +1,7 @@
 ---
 title: "QField for Tourism and Outdoor Recreation Management"
 slug: "tourism-and-outdoor-recreation-management"
-type: "page"
+type: "solutions"
 description: "Trail mapping, facility inventories, and visitor infrastructure inspections with mobile GIS."
 draft: false
 

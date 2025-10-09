@@ -1,7 +1,7 @@
 ---
 title: "QField for Natural Disaster Assessment (Floods, Landslides, Wildfires)"
 slug: "natural-disaster-assessment-floods-landslides-wildfires"
-type: "page"
+type: "solutions"
 description: "Rapid damage assessments and situational mapping with offline mobile GIS in disaster zones."
 draft: false
 

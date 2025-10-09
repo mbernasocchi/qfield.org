@@ -1,7 +1,7 @@
 ---
 title: "QField for Remote Asset Inspection"
 slug: "remote-asset-inspection"
-type: "page"
+type: "solutions"
 description: "Inspect remote assets with offline mobile GIS, high-accuracy GNSS, and photo evidence."
 draft: false
 

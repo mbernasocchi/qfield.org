@@ -1,7 +1,7 @@
 ---
 title: "QField for Infrastructure Digital Twins"
 slug: "infrastructure-digital-twins"
-type: "page"
+type: "solutions"
 description: "Connect field observations to your digital twin with accurate, validated mobile GIS data."
 draft: false
 

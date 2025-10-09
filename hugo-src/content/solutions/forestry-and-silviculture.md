@@ -1,7 +1,7 @@
 ---
 title: "QField for Forestry and Silviculture"
 slug: "forestry-and-silviculture"
-type: "page"
+type: "solutions"
 description: "Offline forest inventory, stand mapping, and silviculture operations tracking with mobile GIS."
 draft: false
 

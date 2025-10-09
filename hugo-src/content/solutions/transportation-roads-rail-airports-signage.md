@@ -1,7 +1,7 @@
 ---
 title: "QField for Transportation (Roads, Rail, Airports, Signage)"
 slug: "transportation-roads-rail-airports-signage"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for transportation asset mapping, inspections, and construction QA across roads, rail, and airports."
 draft: false
 

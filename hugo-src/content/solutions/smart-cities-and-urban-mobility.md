@@ -1,7 +1,7 @@
 ---
 title: "QField for Smart Cities and Urban Mobility"
 slug: "smart-cities-and-urban-mobility"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for smart city assets, sensors, and mobility infrastructure field data collection."
 draft: false
 

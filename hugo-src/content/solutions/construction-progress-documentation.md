@@ -1,7 +1,7 @@
 ---
 title: "QField for Construction Progress Documentation"
 slug: "construction-progress-documentation"
-type: "page"
+type: "solutions"
 description: "Track construction progress with geotagged photos, notes, and as-built updates using mobile GIS."
 draft: false
 

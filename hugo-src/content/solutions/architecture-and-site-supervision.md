@@ -1,7 +1,7 @@
 ---
 title: "QField for Architecture and Site Supervision"
 slug: "architecture-and-site-supervision"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for site supervision, design verification, and field annotations in architecture projects."
 draft: false
 

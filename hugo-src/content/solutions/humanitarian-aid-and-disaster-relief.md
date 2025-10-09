@@ -1,7 +1,7 @@
 ---
 title: "QField for Humanitarian Aid and Disaster Relief"
 slug: "humanitarian-aid-and-disaster-relief"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for needs assessments, distributions, and response coordination in humanitarian operations."
 draft: false
 

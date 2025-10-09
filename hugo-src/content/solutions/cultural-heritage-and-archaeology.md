@@ -1,7 +1,7 @@
 ---
 title: "QField for Cultural Heritage and Archaeology"
 slug: "cultural-heritage-and-archaeology"
-type: "page"
+type: "solutions"
 description: "Site surveys, excavations, and heritage inventories with mobile GIS and QGIS forms."
 draft: false
 

@@ -1,7 +1,7 @@
 ---
 title: "QField for Hydrology and Watershed Management"
 slug: "hydrology-and-watershed-management"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for stream surveys, flood assessments, and watershed monitoring."
 draft: false
 

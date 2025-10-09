@@ -1,7 +1,7 @@
 ---
 title: "QField for Waste Management and Sanitation"
 slug: "waste-management-and-sanitation"
-type: "page"
+type: "solutions"
 description: "Route audits, container inventories, and sanitation inspections with offline mobile GIS."
 draft: false
 

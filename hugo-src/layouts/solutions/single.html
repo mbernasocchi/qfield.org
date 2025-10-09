@@ -4,14 +4,35 @@
     <header class="post-header">
       <h1 class="post-title">{{ .Title }}</h1>
       {{ with .Params.description }}<p class="post-description">{{ . }}</p>{{ end }}
+
+      {{ $cats := .Params.categories }}
+      {{ $tags := .Params.tags }}
+      {{ if or $cats $tags }}
+        <div class="post-meta">
+          {{ with $cats }}
+            <span class="meta-categories">
+              {{ range . }}
+                <a class="category" href="{{ printf "/categories/%s" (urlize .) | relURL }}">#{{ . }}</a>
+              {{ end }}
+            </span>
+          {{ end }}
+          {{ with $tags }}
+            <span class="meta-tags">
+              {{ range . }}
+                <a class="tag" href="{{ printf "/tags/%s" (urlize .) | relURL }}">#{{ . }}</a>
+              {{ end }}
+            </span>
+          {{ end }}
+        </div>
+      {{ end }}
     </header>
 
     {{ with .Params.hero }}
-      <section class="my-6">
+      <section class="my-6 hero">
         {{ with .headline }}<h2>{{ . }}</h2>{{ end }}
         {{ with $.Params.hero.sub }}<p>{{ . }}</p>{{ end }}
-        {{ with $.Params.hero.ctaText }}
-          <p><a class="button" href="{{ $.Params.hero.ctaUrl }}">{{ . }}</a></p>
+        {{ if and $.Params.hero.ctaText $.Params.hero.ctaUrl }}
+          <p><a class="button" href="{{ $.Params.hero.ctaUrl }}">{{ $.Params.hero.ctaText }}</a></p>
         {{ end }}
       </section>
     {{ end }}
@@ -44,6 +65,21 @@
           </details>
         {{ end }}
       </section>
+    {{ end }}
+
+    {{ if .Params.sitemap }}
+      {{ with .Params.sitemap }}
+        {{ if or .changefreq .priority }}
+          <footer class="post-footer">
+            <small class="muted">
+            </small>
+          </footer>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ if .Params.hiddenFromSearch }}
+      <div aria-hidden="true" style="display:none"><meta name="robots" content="noindex,follow"></div>
     {{ end }}
   </article>
 </main>

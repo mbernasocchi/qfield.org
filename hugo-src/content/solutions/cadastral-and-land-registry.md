@@ -1,7 +1,7 @@
 ---
 title: "QField for Cadastral and Land Registry"
 slug: "cadastral-and-land-registry"
-type: "page"
+type: "solutions"
 description: "Parcel boundary mapping, field verification, and registry updates with mobile GIS and QGIS."
 draft: false
 

@@ -1,7 +1,7 @@
 ---
 title: "QField for EUDR (EU Deforestation Regulation) Data Collection"
 slug: "eudr-data-collection"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for EUDR-compliant field data collection, traceability, and verification."
 draft: false
 

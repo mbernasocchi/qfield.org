@@ -1,7 +1,7 @@
 ---
 title: "QField for Refugee Camp and Shelter Mapping"
 slug: "refugee-camp-and-shelter-mapping"
-type: "page"
+type: "solutions"
 description: "Site planning, shelter inventories, and service mapping using mobile GIS in challenging contexts."
 draft: false
 

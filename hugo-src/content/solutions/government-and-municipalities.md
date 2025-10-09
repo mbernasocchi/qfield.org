@@ -1,7 +1,7 @@
 ---
 title: "QField for Government and Municipalities"
 slug: "government-and-municipalities"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for municipal field services, asset inventories, inspections, and citizen services."
 draft: false
 

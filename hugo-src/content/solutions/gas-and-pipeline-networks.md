@@ -1,7 +1,7 @@
 ---
 title: "QField for Gas and Pipeline Networks"
 slug: "gas-and-pipeline-networks"
-type: "page"
+type: "solutions"
 description: "Pipeline routing, as-built capture, and integrity inspections with offline mobile GIS."
 draft: false
 

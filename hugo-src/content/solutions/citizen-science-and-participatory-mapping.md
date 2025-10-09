@@ -1,7 +1,7 @@
 ---
 title: "QField for Citizen Science and Participatory Mapping"
 slug: "citizen-science-and-participatory-mapping"
-type: "page"
+type: "solutions"
 description: "Enable communities to collect high-quality geospatial data with a friendly mobile GIS."
 draft: false
 

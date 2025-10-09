@@ -1,7 +1,7 @@
 ---
 title: "QField for Sustainable Land-Use Planning"
 slug: "sustainable-land-use-planning"
-type: "page"
+type: "solutions"
 description: "Field surveys for sustainable land-use planning, monitoring, and stakeholder engagement using mobile GIS."
 draft: false
 

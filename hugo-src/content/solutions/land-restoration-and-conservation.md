@@ -1,7 +1,7 @@
 ---
 title: "QField for Land Restoration and Conservation"
 slug: "land-restoration-and-conservation"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for restoration planning, monitoring, and conservation field surveys."
 draft: false
 

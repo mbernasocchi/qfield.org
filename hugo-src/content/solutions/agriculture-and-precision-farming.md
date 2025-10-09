@@ -1,7 +1,7 @@
 ---
 title: "QField for Agriculture and Precision Farming"
 slug: "agriculture-and-precision-farming"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for crop scouting, soil sampling, and precision agriculture field data collection."
 draft: false
 

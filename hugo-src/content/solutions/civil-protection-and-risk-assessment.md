@@ -1,7 +1,7 @@
 ---
 title: "QField for Civil Protection and Risk Assessment"
 slug: "civil-protection-and-risk-assessment"
-type: "page"
+type: "solutions"
 description: "Risk mapping, hazard assessments, and emergency planning using mobile GIS and QGIS."
 draft: false
 

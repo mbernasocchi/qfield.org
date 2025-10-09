@@ -1,7 +1,7 @@
 ---
 title: "QField for Academic Field Studies"
 slug: "academic-field-studies"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for teaching and research fieldwork with offline mapping, forms, and collaboration."
 draft: false
 

@@ -1,7 +1,7 @@
 ---
 title: "QField for Archaeology and Anthropology"
 slug: "archaeology-and-anthropology"
-type: "page"
+type: "solutions"
 description: "Field surveys, contexts, and ethnographic mapping with offline mobile GIS and QGIS forms."
 draft: false
 

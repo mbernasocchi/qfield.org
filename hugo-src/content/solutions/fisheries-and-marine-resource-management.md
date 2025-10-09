@@ -1,7 +1,7 @@
 ---
 title: "QField for Fisheries and Marine Resource Management"
 slug: "fisheries-and-marine-resource-management"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for fisheries surveys, coastal monitoring, and marine resource mapping."
 draft: false
 

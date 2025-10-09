@@ -1,7 +1,7 @@
 ---
 title: "QField for Public Works and Infrastructure Maintenance"
 slug: "public-works-and-infrastructure-maintenance"
-type: "page"
+type: "solutions"
 description: "Asset inventories, maintenance inspections, and work orders using mobile GIS integrated with QGIS."
 draft: false
 

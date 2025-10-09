@@ -1,7 +1,7 @@
 ---
 title: "QField for Energy and Renewables (Solar, Wind, Hydro)"
 slug: "energy-and-renewables-solar-wind-hydro"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for renewable energy site surveys, construction QA, and O&M inspections."
 draft: false
 

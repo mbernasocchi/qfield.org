@@ -1,7 +1,7 @@
 ---
 title: "QField for Forestry"
 slug: "qfield-for-forestry"
-type: "page"
+type: "solutions"
 description: "Offline tree inventory, QA in the field, and conflict-free sync."
 draft: false
 

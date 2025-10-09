@@ -1,7 +1,7 @@
 ---
 title: "QField for Facility and Asset Management"
 slug: "facility-and-asset-management"
-type: "page"
+type: "solutions"
 description: "Efficient asset inventory, inspections, and maintenance documentation using mobile GIS and QGIS."
 draft: false
 

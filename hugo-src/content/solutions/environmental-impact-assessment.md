@@ -1,7 +1,7 @@
 ---
 title: "QField for Environmental Impact Assessment"
 slug: "environmental-impact-assessment"
-type: "page"
+type: "solutions"
 description: "Mobile GIS for baseline surveys, constraints mapping, and EIA field documentation."
 draft: false
 

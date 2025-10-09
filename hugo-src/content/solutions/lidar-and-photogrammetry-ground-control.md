@@ -1,7 +1,7 @@
 ---
 title: "QField for LiDAR and Photogrammetry Ground Control"
 slug: "lidar-and-photogrammetry-ground-control"
-type: "page"
+type: "solutions"
 description: "Plan and collect ground control points for LiDAR and photogrammetry with mobile GIS and GNSS."
 draft: false
 
