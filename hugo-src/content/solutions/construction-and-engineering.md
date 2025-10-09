@@ -5,9 +5,6 @@ type: "page"
 description: "Mobile GIS and QGIS fieldwork for site surveys, as-builts, and QA in construction projects."
 draft: false
 
-_build:
-  render: always
-
 hiddenFromHomePage: true
 hiddenFromSearch: false
 

@@ -5,9 +5,6 @@ type: "page"
 description: "Mobile GIS for site supervision, design verification, and field annotations in architecture projects."
 draft: false
 
-_build:
-  render: always
-
 hiddenFromHomePage: true
 hiddenFromSearch: false
 
