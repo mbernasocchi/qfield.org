@@ -38,23 +38,3 @@ outputFormats:
   RSS:
     mediaType: application/rss+xml
     baseName: feed
-menu:
-  main:
-    - name: "HIGHLIGHTS"
-      url: "https://qfield.org#highlights"
-      weight: 10
-    - name: "GET ASSISTANCE"
-      url: "../assistance"
-      weight: 20
-    - name: "RESOURCES"
-      url: "https://docs.qfield.org"
-      weight: 30
-    - name: "CONTACT US"
-      url: "https://opengis.ch/#contact"
-      weight: 40
-    - name: "GET STARTED"
-      url: "../get-started"
-      weight: 50
-    - name: "♥ SUPPORT US"
-      url: "../support-us"
-      weight: 60
