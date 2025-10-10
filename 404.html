@@ -1,0 +1,17 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<p>If you’re not redirected, <a id="fallback" href="/">go to the new location</a>.</p>
+<script>
+(function () {
+  'use strict';
+  if (!location.pathname.startsWith('/docs')) return;
+
+  const target = 'https://docs.qfield.org/' + location.search;
+
+  const link = document.getElementById('fallback');
+  if (link) link.href = target;
+
+  location.replace(target);
+})();
+</script>
