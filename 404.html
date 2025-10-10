@@ -9,30 +9,25 @@
   <script>
   (function () {
     'use strict';
-    var p = location.pathname; // e.g. /docs/prepare/add-1-n-pictures.html
+    var p = location.pathname;
 
-    // Act only on /docs or /docs/...
+    // Only handle /docs URLs
     if (!/^\/docs(?:\/|$)/i.test(p)) return;
 
-    var NEW_BASE = 'https://docs.qfield.org/';
+    // Extract last meaningful segment; drop .html; skip "index"
+    p = p.replace(/\/+$/, '');
+    var parts = p.split('/');
+    var last = parts.pop() || '';
+    if (/^index(?:\.html)?$/i.test(last)) last = parts.pop() || '';
+    var slug = (last || '').replace(/\.html$/i, '');
 
-    // Remove /docs[/], drop trailing index.html or .html
-    var rest = p.replace(/^\/docs\/?/i, '')
-                .replace(/\/?index\.html$/i, '')
-                .replace(/\.html$/i, '');
+    var dest = slug
+      ? 'https://docs.qfield.org/?q=' + encodeURIComponent(slug)
+      : 'https://docs.qfield.org/';
 
-    // Build destination, ensure trailing slash when we have a rest
-    var dest = NEW_BASE.replace(/\/?$/, '/') +
-               (rest ? rest.replace(/^\/+/, '') + '/' : '');
-
-    // Preserve query + hash
-    dest += location.search + location.hash;
-
-    // Update fallback link for no-JS/slow JS users
     var a = document.getElementById('fallback');
     if (a) a.href = dest;
 
-    // Redirect
     location.replace(dest);
   })();
   </script>
