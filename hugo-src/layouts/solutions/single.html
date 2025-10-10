@@ -12,14 +12,14 @@
           {{ with $cats }}
             <span class="meta-categories">
               {{ range . }}
-                <a class="category" href="{{ printf "/categories/%s" (urlize .) | relURL }}">#{{ . }}</a>
+                <a class="category" href="{{ printf "/blog/categories/%s" (urlize .) | relURL }}">#{{ . }}</a>
               {{ end }}
             </span>
           {{ end }}
           {{ with $tags }}
             <span class="meta-tags">
               {{ range . }}
-                <a class="tag" href="{{ printf "/tags/%s" (urlize .) | relURL }}">#{{ . }}</a>
+                <a class="tag" href="{{ printf "/blog/tags/%s" (urlize .) | relURL }}">#{{ . }}</a>
               {{ end }}
             </span>
           {{ end }}
